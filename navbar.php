@@ -26,7 +26,7 @@
                     </ul>-->
                     <!--SUbmenu Ends-->
                 </li>
-                <li><a href="#">Pantalones</a>
+                <li><a href="pantalones-boutique-sahuayo.php">Pantalones</a>
                     <!--SUbmenu Starts-->
                     <!--<ul class="sub_menu">
                         <li>
@@ -41,7 +41,7 @@
                     <!--SUbmenu Ends-->
                 </li>            
 
-                <li><a href="#">Chamarras</a>
+                <li><a href="chamarras-boutique-sahuayo.php">Chamarras</a>
                 <!--<ul class="sub_menu">
                         <li> 
                             <ul>
@@ -53,7 +53,7 @@
                       
                 </ul>-->
                 </li>
-                <li><a href="#">Leggins ó Maya</a>
+                <li><a href="leggins-o-maya-boutique-sahuayo.php">Leggins ó Maya</a>
                 <!--<ul class="sub_menu">
                         <li> 
                             <ul>
@@ -64,7 +64,7 @@
                         </li>
                 </ul>-->
                 </li>
-                <li><a href="#">Vestidos de Fiesta</a>
+                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Vestidos de Fiesta</a>
                 <!--<ul class="sub_menu">
                         <li> 
                             <ul>
