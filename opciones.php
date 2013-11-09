@@ -5,21 +5,26 @@
                         <li class="header">Departments</li>
                         <li class="menu_cont"><a href="#">Blusas</a>
                         	<ul class="side_sub_menu">
-                            	<li><a href="#">Blusas Brocados</a></li>
-                            	<li><a href="#">Blusas de Encaje</a></li>  
-                                <li><a href="#">Blusas de Tejido Fino</a></li>  
-                                <li><a href="#">Blusas Sintetico (Piel)</a></li> 
-                                <li><a href="#">Top</a></li>  
-                                <li><a href="#">Blusas Basica de Manga</a></li>       
-                                <li><a href="#">Blusas de Algodon</a></li>  
-                                <li><a href="#">Blusas de Mezclillas</a></li>                                                                                   
+                                <li><a href="blusas-algodon-sahuayo.php">Blusas de Algodon</a></li>  
+                            	<li><a href="blusas-bordados-sahuayo.php">Blusas con Bordados</a></li>
+                            	<li><a href="blusas-encaje-sahuayo.php">Blusas de Encaje</a></li>  
+                                <li><a href="blusas-tejido-fino-sahuayo.php">Blusas de Tejido Fino</a></li>  
+                                <li><a href="blusas-sintetico-sahuayo.php">Blusas Sintetico (Piel)</a></li> 
+                                <li><a href="blusas-top-sahuayo.php">Top</a></li>  
+                                <li><a href="blusas-tirantes-sahuayo.php">Blusas de Tirante</a></li> 
+                                <li><a href="blusas-licra-sahuayo.php">Blusas de Licra</a></li>
+                                <li><a href="blusas-vestir-sahuayo.php">Blusas de Vestir</a></li> 
                             </ul>
                         </li>
                         <li class="menu_cont"><a href="#">Pantalones</a>
                         	<ul class="side_sub_menu">
-                            	<li><a href="#">Pantalones Colombianos</a></li>
-                            	<li><a href="#">Pantalones Cest Toi</a></li>
-                            	<li><a href="#">Pantalones de Vestir</a></li>                            	                                                                                              
+                            	<li><a href="pantalones-colombianos-sahuayo.php">Pantalones Colombianos</a></li>
+                            	<li><a href="pantalones-cinto-sahuayo.php">Pantalones de Cinto</a></li>
+                            	<li><a href="pantalones-colores-sahuayo.php">Pantalones de Colores</a></li> 
+                                <li><a href="pantalones-rayas-sahuayo.php">Pantalones de Rayas</a></li>
+                                <li><a href="pantalones-chifon-sahuayo.php">Pantalones Chifon</a></li>
+                                <li><a href="pantalones-floreados-sahuayo.php">Pantalones Floreado</a></li>  
+                                <li><a href="pantalones-licra-sahuayo.php">Pantalones de Licra</a></li>                              	                                                                                              
                             </ul>
                         </li>
                         <li class="menu_cont"><a href="#">Chamarras</a>

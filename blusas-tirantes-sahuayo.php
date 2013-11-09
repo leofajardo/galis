@@ -29,6 +29,22 @@
                     <ul>
                         <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
                             <div class="product_info">
+                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
+                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                            <div class="product_info">
+                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
+                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                            <div class="product_info">
                                 <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
                                 <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                             <div class="price_info"> <a href="#">+ Add to wishlist</a>
