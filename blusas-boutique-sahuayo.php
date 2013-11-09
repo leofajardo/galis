@@ -10,9 +10,9 @@
         <!--Mid Section Starts-->
         <section>
             <!--SIDE NAV STARTS-->
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("opciones.php") ?>
             <!--SIDE NAV ENDS-->
-                       
+            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>          
                 
                 <!--<ul class="breadcrumb">
                     <li><a href="#">Home</a></li>
@@ -22,6 +22,7 @@
                 
                 
                 <!--Product List Starts-->
+            <div id="main_content">
             <div class="products_list products_slider">
                 <h2 class="sub_title">Blusas Algodon</h2>
                 <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
@@ -115,6 +116,7 @@
                     </li>
                 </ul>
             </div>
+            
             <!--Product List Ends-->
                 <!--Product List Starts-->
             <div class="products_list products_slider">
@@ -675,6 +677,7 @@
                         </div>
                     </li>
                 </ul>
+            </div>
             </div>
             <!--Product List Ends-->
                               
