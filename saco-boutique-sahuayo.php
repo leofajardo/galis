@@ -85,7 +85,7 @@
             </div>
             <!--Product List Ends-->
                               
-                <?php include("hoja-de-informacion.php") ?>
+                <?php include("footer.php") ?>
             
         </section>
         <!--Mid Section Ends-->

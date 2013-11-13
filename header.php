@@ -14,8 +14,10 @@
                 <!--Top Links Ends-->
             </div>
             <!--Logo Starts-->
+            <div style="background:#d8246d">
+                <h1 class="log"> <a href="index.php"><img src="images/galis.jpg" /></a> </h1>
+            </div>
             
-            <h1 class="logo"> <a href="leisure_index.html"><img src="images/logo.png" /></a> </h1>
             
             <!--Logo Ends-->
             <!--Responsive NAV-->            

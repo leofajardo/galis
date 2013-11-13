@@ -26,7 +26,7 @@
             <div class="products_list products_slider">
                 <h2 class="sub_title">Blusas</h2>
                 <div>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-algodón-cuello-caido-01.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-algodon-sahuayo.php">Blusas de Algodon</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -34,41 +34,15 @@
                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-de-cuello-bordado.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="blusas-tejido-fino-sahuayo.php">Blusas de Tejido</a></h3>
+                            <h3><a href="blusas-bordados-sahuayo.php">Blusas de Bordadas</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="blusas-sintetico-sahuayo.php">Blusas Sinteticas</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="bluss-top-sahuayo.php">Top</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                        </div>
-                    </li>
-                </div>
-                <div>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="blusas-bordados-sahuayo.php">Blusas de Bordado</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-de-encaje-01.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-encaje-sahuayo.php">Blusas de Encaje</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -76,15 +50,33 @@
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-tejido-con-lentejuela.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="blusas-licra-sahuayo.php">Blusas de Licra</a></h3>
+                            <h3><a href="blusas-tejido-fino-sahuayo.php">Blusas de Tejido</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <!--<li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="blusas-sintetico-sahuayo.php">Blusas Sinteticas</a></h3>
+                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        </div>
+                    </li>-->
+                    <li> <a class="product_image"><img src="images/blusas/Top-01.jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="bluss-top-sahuayo.php">Top</a></h3>
+                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        </div>
+                    </li>
+                    </div>
+                    <div>                    
+                     <li> <a class="product_image"><img src="images/blusas/Blusa-tirantes-01.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-tirantes-sahuayo.php">Blusas de Tirante</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -92,9 +84,18 @@
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-de-licra.jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="blusas-licra-sahuayo.php">Blusas de Licra</a></h3>
+                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        </div>
+                    </li>
+                   
                 </div>
                 <div>
-                    <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/Blusa-blanca-de-vestir-frente.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-vestir-sahuayo.php">Blusas de Vestir</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
