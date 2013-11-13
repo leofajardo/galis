@@ -24,63 +24,67 @@
                 <!--Product List Starts-->
             <div class="products_list products_slider">
                 <h2 class="sub_title">Pantalones</h2>
-                <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                <ul>
+                <div>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-colombianos-sahuayo.php">Pantalones Colombianos</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-colombianos-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-cinto-sahuayo.php">Pantalones de Cinto</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-cinto-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-colores-sahuayo.php">Pantalones de Colores</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-colores-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-rayas-sahuayo.php">Pantalones de Rayas</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-rayas-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                </div>
+                <div>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-chifon-sahuayo.php">Pantalones Chifon</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-chifon-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-floreados-sahuayo.php">Pantalones Floreados</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-floreados-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="pantalones-licra-sahuayo.php">Pantalones de Licra</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                        <div class="price_info"> <a href="pantalones-licra-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
+                </div>
                 </ul>
             </div>
             <!--Product List Ends-->           

@@ -25,6 +25,7 @@
             <!--<div id="main_content">-->
             <div class="products_list products_slider">
                 <h2 class="sub_title">Blusas</h2>
+                <ul>
                 <div>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-01.jpg"/></a>
                         <div class="product_info">
@@ -101,6 +102,7 @@
                         </div>
                     </li>
                 </div>
+                </ul>
             </div>            
             <!--Product List Ends-->
             <?php include("footer.php") ?>

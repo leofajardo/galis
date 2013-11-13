@@ -24,32 +24,34 @@
             <!--Product List Starts-->
             <div class="products_list products_slider">
                 <h2 class="sub_title">Chamarras</h2>
-                <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
-                    <li> <a class="product_image"><img src="images/chamarra-torerita.jpg"/></a>
+                <ul>
+                <div>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="Chamarras-mezclilla-sahuayo.php">Chamarraz de Mezclilla</a></h3>
+                            <h3><a href="chamarras-mezclilla-sahuayo.php">Chamarras Mezclilla</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                        <div class="price_info"> <a href="chamarras-mezclilla-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/chamarra-torerita.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-sinteticas-sahuayo.php">Chamarras Sintetica</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                        <div class="price_info"> <a href="chamarras-sinteticas-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/chamarra-torerita.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="Chamarras-toreritas-sahuayo.php">Chamarra Torerita</a></h3>
+                            <h3><a href="chamarras-toreritas-sahuayo.php">Chamarras Torerita</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                        <div class="price_info"> <a href="chamarras-toreritas-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    </ul>
+                </div>
+                </ul>
             </div>
             <!--Product List Ends-->
             <?php include("footer.php") ?>
