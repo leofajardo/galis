@@ -29,7 +29,7 @@
                     <ul>
 
                         
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-01.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-01.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-01.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de algodón cuello caido</h3>
                             </div>
@@ -37,55 +37,63 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-02.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-02.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-02.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add fancybox" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-03.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-03.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-03.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-04.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-04.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-04.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-05.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-05.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-05.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-06.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-06.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-06.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-07.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-07.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-07.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-07.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
                                 </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-08.jpg"><img class="imagen-interna" src="images/blusas/Blusa-algodón-cuello-caido-08.jpg" ></a>
+                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-algodón-cuello-caido-08.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-algodón-cuello-caido-08.jpg" ></a>
+                            <div class="product_info">
+                                <h3><a href="#">Blusa de algodón cuello caido</a></h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                             <div class="product_info">
                                 <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
                             </div>
@@ -93,7 +101,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <!--<li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                             <div class="product_info">
                                 <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
                             </div>
@@ -101,7 +109,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                             <div class="product_info">
                                 <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
                             </div>
@@ -109,14 +117,6 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                            <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                            </div>
-                            <div class="price_info">
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>-->
                     </ul>
                 </div>
                 <!--Product List Ends-->
