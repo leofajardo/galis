@@ -94,11 +94,9 @@
                     </ul>
                 </div>
                 <!--Product List Ends-->
-                              
-                <?php include("hoja-de-informacion.php") ?>
-            
         </section>
         <!--Mid Section Ends-->
+        <?php include("footer.php") ?>
     </div>
     
 </div>

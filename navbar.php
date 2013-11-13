@@ -23,12 +23,12 @@
                             </ul>
                         </li>
                         
-                    </ul>-->
+                    </ul>
                     <!--SUbmenu Ends-->
                 </li>
                 <li><a href="pantalones-boutique-sahuayo.php">Pantalones</a>
                     <!--SUbmenu Starts-->
-                    <!--<ul class="sub_menu">
+                   <!-- <ul class="sub_menu">
                         <li>
                             <ul>
                                 <li><a href="pantalones-colombianos-sahuayo.php">Colombianos</a></li>
@@ -37,7 +37,7 @@
                             </ul>
                         </li>
                      
-                    </ul>-->
+                    </ul>
                     <!--SUbmenu Ends-->
                 </li>            
 
@@ -53,8 +53,8 @@
                       
                 </ul>-->
                 </li>
-                <li><a href="leggins-o-maya-boutique-sahuayo.php">Leggins ó Maya</a>
-                <!--<ul class="sub_menu">
+               <!-- <li><a href="leggins-o-maya-boutique-sahuayo.php">Leggins ó Maya</a>
+                <ul class="sub_menu">
                         <li> 
                             <ul>
                                 <li><a href="leggin-maya-algodon-sahuayo.php">Algodón</a></li>
@@ -64,7 +64,7 @@
                         </li>
                 </ul>-->
                 </li>
-                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Vestidos de Fiesta</a>
+                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Vestidos</a>
                 <!--<ul class="sub_menu">
                         <li> 
                             <ul>
@@ -76,13 +76,12 @@
                         </li>
                 </ul>-->
                 </li>
+                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Chalecos</a></li>
+                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Saco</a></li>
                 <li><a href="mas-opciones-boutique-sahuayo.php">Ver mas...</a>
-                <!--<ul class="sub_menu">
+                <ul class="sub_menu">
                         <li> 
                             <ul>
-                            <li><a href="abrigos-sahuayo.php">Abrigos</a></li>
-                            <li><a href="chalecos-sahuayo.php">Chalecos</a></li>
-                            <li><a href="saco-sahuayo.php">Saco</a></li>
                             <li><a href="ropa-interior-sahuayo.php">Ropa Interior</a></li>
                             <li><a href="accesorios-sahuayo.php">Accesorios</a></li>
                             <li><a href="blusones-sahuayo.php">Blusones</a></li>
@@ -90,7 +89,7 @@
                             <li><a href="sueter-sahuayo.php">Sueter</a></li>                
                             </ul>
                         </li>                 
-                </ul>-->
+                </ul>
                 </li>
                 <!--
                 <li><a href="leisure_listing.php">Chalecos</a>

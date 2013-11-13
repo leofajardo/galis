@@ -25,13 +25,13 @@
             <!--<div id="main_content">-->
             <div class="products_list products_slider">
                 <h2 class="sub_title">Blusas</h2>
-                <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
+                <div>
                     <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-algodon-sahuayo.php">Blusas de Algodon</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                           
                         </div>
                     </li>
                     <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
@@ -58,6 +58,8 @@
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
+                </div>
+                <div>
                     <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-bordados-sahuayo.php">Blusas de Bordado</a></h3>
@@ -90,6 +92,8 @@
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
+                </div>
+                <div>
                     <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-vestir-sahuayo.php">Blusas de Vestir</a></h3>
@@ -97,11 +101,11 @@
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
-                    </li>                   
-                </ul>
+                    </li>
+                </div>
             </div>            
             <!--Product List Ends-->
-            <?php include("hoja-de-informacion.php") ?>
+            <?php include("footer.php") ?>
             
         </section>
         <!--Mid Section Ends-->

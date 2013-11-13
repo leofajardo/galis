@@ -27,23 +27,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                            <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
-                            <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image"><img src="images/chamarra-torerita.jpg"/></a>
                             <div class="product_info">
                                 <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
                                 <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -54,9 +38,11 @@
                         </ul>
                 </div>
                 <!--Product List Ends-->
+                              
+                <?php include("hoja-de-informacion.php") ?>
+            
         </section>
         <!--Mid Section Ends-->
-        <?php include("footer.php") ?>
     </div>
     
 </div>

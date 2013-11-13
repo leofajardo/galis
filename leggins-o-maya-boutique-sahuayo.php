@@ -23,143 +23,80 @@
                 
             <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Leggins Cierre, Trival y Maya Trival</h2>
+                <h2 class="sub_title">Leggins y Mayas</h2>
                 <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-cierre(1).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins con Cierre</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-cierre(2).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Trival</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-cierre(3).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Bolsillos</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-trival(1).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Licra</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-trival(2).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Legins Piel</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-trival(3).jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Sintetico</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/maya-trival.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Brocado</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li> 
-                     <li> <a class="product_image"><img src="images/blusa-tejido/leggin-peto-alto.jpg"/></a>
+                     <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Leggins Floriado</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    </ul>
-            </div>
-            <!--Product List Ends-->
-             <!--Product List Starts-->
-            <div class="products_list products_slider">
-                <h2 class="sub_title">Leggins bolsillos, Licra, Piel, Sintetico, Brocado, y Floriado</h2>
-                <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-bolsillos.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/leggins.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="#">Maya Trival</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-con-licra-rayas.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-con-piel.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-sintetica-con-transparencia.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-sintetico-con-peto-alto.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-brocado.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li> 
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-floriado.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusa-tejido/leggin-corte-de-tras.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li> 
                     </ul>
             </div>
             <!--Product List Ends-->

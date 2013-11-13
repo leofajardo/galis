@@ -2,7 +2,7 @@
                 <div class="sideNavCategories">
                     
                     <ul class="category departments">
-                        <li class="header">Departments</li>
+                        <li class="header">LÍNEA DE PRODUCTOS</li>
                         <li class="menu_cont"><a href="#">Blusas</a>
                         	<ul class="side_sub_menu">
                                 <li><a href="blusas-algodon-sahuayo.php">Blusas de Algodon</a></li>  
@@ -29,9 +29,9 @@
                         </li>
                         <li class="menu_cont"><a href="#">Chamarras</a>
                             <ul class="side_sub_menu">
-                                <li><a href="#">Chamarras de Mezclila</a></li>
-                                <li><a href="#">Chamarras de Piel</a></li>  
-                                <li><a href="#">Chamarras de Algodon</a></li>  
+                                <li><a href="chamarras-mezclilla-sahuayo.php">Chamarras de Mezclila</a></li>
+                                <li><a href="chamarras-sinteticas-sahuayo.php">Chamarras Sinteticas</a></li>  
+                                <li><a href="chamarras-toreritas-sahuayo.php">Chamarras Toreritas</a></li>  
                                                                                                                 
                             </ul>
                         </li>
@@ -43,21 +43,12 @@
                                                                                                                 
                             </ul>
                         </li>
-                        <li class="menu_cont"><a href="#">Vestidos de Vestir</a>
+                        <li class="menu_cont"><a href="#">Vestidos</a>
                             <ul class="side_sub_menu">
                                 <li><a href="vestidos-fiesta-largo-sahuayo.php">Largo</a></li>
                                 <li><a href="vestidos-fiesta-coctel-sahuayo.php">Coctel</a></li>
                                 <li><a href="vestidos-fiesta-cola-sahuayo.php">Cola</a></li>
                                 <li><a href="vestidos-fiesta-informal-sahuayo.php">Informal</a></li>   
-                                                                                                                
-                            </ul>
-                        </li>
-                        <li class="menu_cont"><a href="#">Abrigos</a>
-                            <ul class="side_sub_menu">
-                                <li><a href=""></a></li>
-                                <li><a href=""></a></li>
-                                <li><a href=""></a></li>
-                                <li><a href=""></a></li>   
                                                                                                                 
                             </ul>
                         </li>
@@ -125,21 +116,6 @@
                                                                                                                 
                             </ul>
                         </li>
-                    </ul>
-                    <ul class="category collection">
-                        <li class="header">Collection</li>
-                        <li><a href="#">All Brands</a></li>
-                        <li><a href="#">Citizens of Humanity</a></li>
-                        <li><a href="#">Crew Clothing</a></li>
-                        <li><a href="#">Boutique</a></li>
-                        <li><a href="#">Summer</a></li>
-                        <li><a href="#">Mudd & Water</a></li>
-                    </ul>
-                    <ul class="category price">
-                        <li class="header">Price</li>
-                        <li><a href="#">$50 to $100</a></li>
-                        <li><a href="#">$100 to $200</a></li>
-                        <li><a href="#">$200 to $500</a></li>
-                    </ul>
+                    </ul>                   
                 </div>
             </div>

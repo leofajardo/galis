@@ -8,8 +8,8 @@
                 <ul class="top_links">
                    <!-- <li><a href="#">Mi Cuenta</a></li>
                     <li><a href="#">Favoritos</a></li>
-                    <li><a href="#">Ingreso</a></li>-->
-                    <li class="highlight"><a href="#">Registro</a></li>
+                    <li><a href="#">Ingreso</a></li>
+                    <li class="highlight"><a href="#">Registro</a></li>-->
                 </ul>
                 <!--Top Links Ends-->
             </div>
@@ -31,13 +31,13 @@
                 </select>
             </div>
             <!--Responsive NAV-->
-            <!--Search Starts-->
+            <!--Search Starts
             <form class="header_search">
                 <div class="form-search">
                     <input id="search" type="text" name="q" value="" class="input-text" autocomplete="off" placeholder="Search">
                     <button type="submit" title="Search"></button>
                 </div>
-            </form>
+            </form>-->
             
             <!--Search Ends-->
         </header>

@@ -2,61 +2,43 @@
         <!--Footer Starts-->
         <footer>
             <ul class="footer_links">
-                <li> <span>New Arrivals</span>
+                <li> <span>LÍNEA DE PRODUCTOS</span>
                     <ul>
-                        <li><a href="#">Clothing</a></li>
-                        <li><a href="#">Shoes</a></li>
-                        <li><a href="#">Bags</a></li>
-                        <li><a href="#">Accessories</a></li>
-                        <li><a href="#">Zimmermann</a></li>
-                        <li><a href="#">Acne</a></li>
-                        <li><a href="#">Bassike</a></li>
-                        <li><a href="#">Camilla and Marc</a></li>
+                        <li><a href="blusas-boutique-sahuayo.php">Blusas</a></li>
+                        <li><a href="pantalones-boutique-sahuayo.php">Pantalones</a></li>
+                        <li><a href="chamarras-boutque-sahuayo.php">Chamarras</a></li>
+                        <li><a href="leggins-o-maya-boutique-sahuayo.php">Leggin o Maya</a></li>
+                        <li><a href="vestidos-boutique-sahuayo.php">Vestidos</a></li>
+                        <li><a href="chalecos-boutique-sahuayo.php">Chalecos</a></li>                       
                     </ul>
                 </li>
-                <li  class="seperator"> <span>Brands we sell</span>
-                    <ul>
-                        <li><a href="#">Elle</a></li>
-                        <li><a href="#">Reallxe</a></li>
-                        <li><a href="#">Fabric</a></li>
-                        <li><a href="#">Mayflower</a></li>
-                        <li><a href="#">Levis Strauss</a></li>
-                        <li><a href="#">Anzonica</a></li>
-                        <li><a href="#">Reallxe</a></li>
-                        <li><a href="#">Fabric</a></li>
+                <li><br/>
+                    <ul>                        
+                        <li><a href="saco-boutique-sahuayo.php">Saco</a></li>
+                        <li><a href="ropa-interiot-boutique-sahuayo.php">Ropa Interior</a></li>
+                        <li><a href="accesorios-botique-sahuayo.php">Accesorios</a></li>
+                        <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
+                        <li><a href="faldas-boutique-sahuayo.php">Faldas</a></li>
+                        <li><a href="sueter-boutique-sahuayo.php">Sueter</a></li>
                     </ul>
                 </li>
-                <li> <span>Customer Service</span>
+                <li> 
                     <ul>
-                        <li><a href="#">Help</a></li>
-                        <li><a href="#">Shipping</a></li>
-                        <li><a href="#">Returns & Exchanges</a></li>
-                        <li><a href="#">Payment Options</a></li>
-                        <li><a href="#">Order Status & Tracking</a></li>
-                        <li><a href="#">Gift Wrap Options</a></li>
-                        <li><a href="#">International Orderse</a></li>
-                        <li><a href="#">Terms & Conditions</a></li>
-                    </ul>
-                </li>
-                <li> <span>My Account</span>
-                    <ul>
-                        <li><a href="#">My Account Information</a></li>
-                        <li><a href="#">My Password</a></li>
-                        <li><a href="#">My Order History</a></li>
-                        <li><a href="#">Payment Options</a></li>
-                        <li><a href="#">My Address Book</a></li>
-                        <li><a href="#">My Updates & Alerts</a></li>
+                        <iframe width="300" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Paseo+de+la+luna+111,+Solares+Residencial,+Valle+Real,+M%C3%A9xico&amp;aq=0&amp;oq=Paseo+de+la+Luna+111+sol&amp;sll=37.0625,-95.677068&amp;sspn=41.95363,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=Paseo+de+la+luna,+Jalisco,+M%C3%A9xico&amp;t=m&amp;ll=20.721518,-103.457479&amp;spn=0.012042,0.012875&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>    
                     </ul>
                 </li>
             </ul>
             <div class="footer_customblock">
-                <div class="shipping_info"> <span>introducing </span><br>
-                    <big>FREE SHIPPING</big><br>
-                    <small>for purchases above $200</small> </div>
-                <div class="contact_info"> <big>1.800. (1.800.260.7890)</big> </div>
+                <div class="shipping_info"> <span>Encuentranos en:</span><br>
+                    <small>
+                    Constitución #   <br/>
+                    C.P 59000 <br/>
+                    Sahuayo Michiacán
+                    </small> </div>
+                <div class="contact_info"> <big>353-570-0000</big> </div>
             </div>
             <address>
-            Copyright © 2012 Leisure. All Rights Reserved. <img src="images/payment_info.jpg"/>
+            Copyright © 2012 Leisure. All Rights Reserved. 
             </address>
         </footer>
         <!--Footer Ends-->
