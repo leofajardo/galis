@@ -43,34 +43,13 @@
                                                                                                                 
                             </ul>
                         </li>
-                        <li class="menu_cont"><a href="#">Vestidos</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="vestidos-fiesta-largo-sahuayo.php">Largo</a></li>
-                                <li><a href="vestidos-fiesta-coctel-sahuayo.php">Coctel</a></li>
-                                <li><a href="vestidos-fiesta-cola-sahuayo.php">Cola</a></li>
-                                <li><a href="vestidos-fiesta-informal-sahuayo.php">Informal</a></li>   
-                                                                                                                
-                            </ul>
-                        </li>
-                        <li class="menu_cont"><a href="#">Chalecos</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="#">Sintético</a></li>
-                                <li><a href="#">Algodón</a></li>  
-                                                                                                                
-                            </ul>
-                        </li>
-                        <li class="menu_cont"><a href="#">Saco</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="#">Lino Liso</a></li>
-                                <li><a href="#">Estampado</a></li>  
-                                                                                                                
-                            </ul>
-                        </li>
+                        <li><a href="vestidos-boutique-sahuayo.php">Vestidos</a></li>
+                        <li><a href="chalecos-boutique-sahuayo.php">Chalecos</a></li>
+                        <li><a href="saco-boutique-sahuayo.php">Sacos</a></li>
                         <li class="menu_cont"><a href="#">Ropa Interior</a>
                             <ul class="side_sub_menu">
-                                <li><a href="#">Tanga sin Costura</a></li>
-                                <li><a href="#">Completo sin Costura</a></li>
-                                <li><a href="#">Boxer sin Costura</a></li>  
+                                <li><a href="ropa-interior-completo-sin-costura-sahuayo.php">Completo sin Costura</a></li>
+                                <li><a href="ropa-interior-boxer-sahuayo.php">Boxer</a></li>  
                                                                                                                 
                             </ul>
                         </li>

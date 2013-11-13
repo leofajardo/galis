@@ -29,7 +29,7 @@
                     <ul>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras mezclilla</h3>
+                                <h3>Calszon sin Costura</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -37,7 +37,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras mezclilla</h3>
+                                <h3>Calszon sin Costura</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -45,7 +45,23 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras mezclilla</h3>
+                                <h3>Calszon sin Costura</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Calszon sin Costura</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Calszon sin Costura</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -54,8 +70,6 @@
                     </ul>
                 </div>
                 <!--Product List Ends-->
-                              
-                
         </section>
         <!--Mid Section Ends-->
         <?php include("footer.php") ?>

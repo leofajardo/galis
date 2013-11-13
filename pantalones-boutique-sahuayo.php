@@ -87,11 +87,10 @@
                 </div>
                 </ul>
             </div>
-            <!--Product List Ends-->           
-            <?php include("footer.php") ?>
-            
+            <!--Product List Ends-->
         </section>
         <!--Mid Section Ends-->
+        <?php include("footer.php") ?>
     </div>
     
 </div>

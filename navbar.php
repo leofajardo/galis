@@ -64,7 +64,7 @@
                         </li>
                 </ul>-->
                 </li>
-                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Vestidos</a>
+                <li><a href="vestidos-boutique-sahuayo.php">Vestidos</a>
                 <!--<ul class="sub_menu">
                         <li> 
                             <ul>
@@ -76,17 +76,17 @@
                         </li>
                 </ul>-->
                 </li>
-                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Chalecos</a></li>
-                <li><a href="vestidos-fiesta-boutique-sahuayo.php">Saco</a></li>
+                <li><a href="chalecos-boutique-sahuayo.php">Chalecos</a></li>
+                <li><a href="saco-boutique-sahuayo.php">Sacos</a></li>
                 <li><a href="mas-opciones-boutique-sahuayo.php">Ver mas...</a>
                 <ul class="sub_menu">
                         <li> 
                             <ul>
-                            <li><a href="ropa-interior-sahuayo.php">Ropa Interior</a></li>
-                            <li><a href="accesorios-sahuayo.php">Accesorios</a></li>
-                            <li><a href="blusones-sahuayo.php">Blusones</a></li>
-                            <li><a href="faldas-sahuayo.php">Faldas</a></li>
-                            <li><a href="sueter-sahuayo.php">Sueter</a></li>                
+                            <li><a href="ropa-interior-boutique-sahuayo.php">Ropa Interior</a></li>
+                            <li><a href="accesorios-boutique-sahuayo.php">Accesorios</a></li>
+                            <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
+                            <li><a href="faldas-boutique-sahuayo.php">Faldas</a></li>
+                            <li><a href="sueter-boutique-sahuayo.php">Sueter</a></li>                
                             </ul>
                         </li>                 
                 </ul>
