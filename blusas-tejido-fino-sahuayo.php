@@ -27,110 +27,110 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                         <li> <a class="price_info fancybox" href="images/blusas/Blusa-tejido-con-lentejuela.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tejido-con-lentejuela.jpg" ></a>
+                         <li> <a class="product_image fancybox" href="images/blusas/Blusa-tejido-con-lentejuela.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tejido-con-lentejuela.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">Blusa-tejido con lentejuela</a></h3>
+                                <h3>Blusa tejido con lentejuela</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <!--<li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
+                            </div>
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Add to Cart</span></button>
+                                <h3>Blusa tejido</h3>
                             </div>
-                        </li>-->
+                            <div class="price_info">
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
                     </ul>
                 </div>
                 <!--Product List Ends-->

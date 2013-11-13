@@ -36,7 +36,7 @@
                     </li>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-de-cuello-bordado.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="blusas-bordados-sahuayo.php">Blusas de Bordadas</a></h3>
+                            <h3><a href="blusas-bordados-sahuayo.php">Blusas Bordadas</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="blusas-bordados-sahuayo.php">+ Ver mas Modelos</a>
                             

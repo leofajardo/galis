@@ -27,7 +27,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-01.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-01.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-01.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -35,7 +35,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-02.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-02.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-02.jpg" ></a>
                             <div class="product_info">
                                 <h3>CN Clogs Beach/Garden Clog</h3>
                             </div>
@@ -43,7 +43,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-03.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-03.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-03.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -51,7 +51,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-04.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-04.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-04.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -59,7 +59,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-05.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-05.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-05.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -67,7 +67,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-06.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-06.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-06.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -75,7 +75,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-07.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-07.jpg" ></a>
+                       <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-07.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-07.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -83,7 +83,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-08.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-08.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-08.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-08.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -91,7 +91,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-09.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-09.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-09.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-09.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -99,7 +99,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-10.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-10.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-10.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-10.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -107,7 +107,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-tirantes-11.jpg"><img class="imagen-interna" src="images/blusas/Blusa-tirantes-11.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-11.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-11.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -115,62 +115,62 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <!-- <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                       <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa de tirantes</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>-->
+                        </li>
                     </ul>
                 </div>
                 <!--Product List Ends-->

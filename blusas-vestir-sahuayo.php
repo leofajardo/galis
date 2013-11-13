@@ -27,70 +27,70 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-blanca-de-vestir-frente.jpg"><img class="imagen-interna" src="images/blusas/Blusa-blanca-de-vestir-frente.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-blanca-de-vestir-frente.jpg"><img class="imagen-interna" src="images/blusas/Blusa-blanca-de-vestir-frente.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">Blusa-blanca de vestir frente</a></h3>
+                                <h3>Blusa-blanca de vestir frente</h3>
                             </div>
-                            <div class="price_info"> <a href="#">
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="price_info fancybox" href="images/blusas/Blusa-blanca-de-vestir-vuelta.jpg"><img class="imagen-interna" src="images/blusas/Blusa-blanca-de-vestir-vuelta.jpg" ></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-blanca-de-vestir-vuelta.jpg"><img class="imagen-interna" src="images/blusas/Blusa-blanca-de-vestir-vuelta.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">Blusa blanca de vestir vuelta</a></h3>
+                                <h3>Blusa blanca de vestir vuelta</h3>
                             </div>
-                            <div class="price_info"> <a href="#">
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <!-- <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="images/blusa-algodon">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image"><img src="images/blusa-algodon.jpg"/></a>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3><a href="#">CN Clogs Beach/Garden Clog</a></h3>
-                                <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                            <div class="price_info"> <a href="#">+ Add to wishlist</a>
+                                <h3>Blusa blanca de vestir</h3>
+                            </div>
+                            <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>-->
+                        </li>
                     </ul>
                 </div>
                 <!--Product List Ends-->
