@@ -15,11 +15,11 @@
                 <li><br/>
                     <ul>                        
                         <li><a href="saco-boutique-sahuayo.php">Saco</a></li>
-                        <li><a href="ropa-interiot-boutique-sahuayo.php">Ropa Interior</a></li>
-                        <li><a href="accesorios-botique-sahuayo.php">Accesorios</a></li>
+                        <li><a href="ropa-interiot-boutique-sahuayo.php">Ropa Interior</a></li>                        
                         <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
                         <li><a href="faldas-boutique-sahuayo.php">Faldas</a></li>
                         <li><a href="sueter-boutique-sahuayo.php">Sueter</a></li>
+                        <li><a href="accesorios-botique-sahuayo.php">Accesorios</a></li>
                     </ul>
                 </li>
                 <li> 

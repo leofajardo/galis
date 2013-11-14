@@ -29,7 +29,7 @@
                     <ul>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Corta Sintetica</h3>
+                                <h3>Collar Abstracto</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -37,7 +37,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Corte Chanel Sintetica</h3>
+                                <h3>Collar Barba</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -45,7 +45,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Sintetica con Estoperoles</h3>
+                                <h3>Collar Cuello</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -53,7 +53,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Sintetica</h3>
+                                <h3>Collar Placa</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -61,7 +61,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Algodon con Licra</h3>
+                                <h3>Collar Tribaleño</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -69,7 +69,7 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Algodon con Licra</h3>
+                                <h3>Collar Tribaleño</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -77,7 +77,54 @@
                         </li>
                         <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda de Tira Bordada</h3>
+                                <h3>Collar</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li><li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Collar Swaroski</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

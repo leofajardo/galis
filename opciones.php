@@ -35,14 +35,6 @@
                                                                                                                 
                             </ul>
                         </li>
-                        <li class="menu_cont"><a href="#">Leggin o Maya</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="leggin-maya-algodon-sahuayo.php">Algodón</a></li>
-                                <li><a href="leggin-maya-piel-sahuayo.php">Piel</a></li>
-                                <li><a href="leggin-maya-lycra-sahuayo.php">Lycra</a></li>   
-                                                                                                                
-                            </ul>
-                        </li>
                         <li><a href="vestidos-boutique-sahuayo.php">Vestidos</a></li>
                         <li><a href="chalecos-boutique-sahuayo.php">Chalecos</a></li>
                         <li><a href="saco-boutique-sahuayo.php">Sacos</a></li>
@@ -53,46 +45,23 @@
                                                                                                                 
                             </ul>
                         </li>
-                        <li class="menu_cont"><a href="#">Accesorios</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="#">Bisuteria</a></li>
-                                <ul class="sub_menu"> 
-                                <li><a href="#">Swarovski</a></li>  
-                                <li><a href="#">Collares</a>
-                                <li><a href="#">Cintos</a></li>
-                                </ul>
-                                <li><a href="#">Bolsas</a></li>
-                                <ul class="sub_menu">
-                                    <li><a href="#">Bolsas Couch (Original)</a></li>
-                                </ul>
-                                <li><a href="#">Pashminas</a></li>
-                                <li><a href="#">Gorritos de Hielo</a></li>
-                                <li><a href="#">Medias y Pantimedias</a></li> 
-                                                                                                                
-                            </ul>
-                        </li>
-                        <li class="menu_cont"><a href="#">Blusones</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="#">Tejido</a></li>
-                                <li><a href="#">Chifón</a></li>
-                                <li><a href="#">Piel</a></li>    
-                                                                                                                
-                            </ul>
-                        </li>
-                        <li class="menu_cont"><a href="#">Faldas</a>
-                            <ul class="side_sub_menu">
-                                <li><a href="#">Sintética</a></li>
-                                <li><a href="#">Lycra</a></li>
-                                <li><a href="#">Corte Chanel</a></li>
-                                <li><a href="#">Falda Corta</a></li>   
-                                                                                                                
-                            </ul>
-                        </li>
+                        <li><a href="leggins-o-mayas-boutique-sahuayo.php">Leggin o Maya</a></li>                        
+                        <li class="menu_cont"><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
+                        <li class="menu_cont"><a href="faldas-">Faldas</a></li>
                         <li class="menu_cont"><a href="#">Sueter</a>
                             <ul class="side_sub_menu">
-                                <li><a href="#">Tejido</a></li>
-                                <li><a href="#">Dabalash</a></li>  
-                                                                                                                
+                                <li><a href="sueter-sahuayo.php">Sueters</a></li> 
+                                <li><a href="sueter-tejido-sahuayo.php">Sueters Tejidos</a></li>                                                                                                                                                 
+                            </ul>
+                        </li>
+                        <li class="menu_cont"><a href="#">Accesorios</a>
+                            <ul class="side_sub_menu">
+                                <li><a href="accesorios-anillos-sahuayo.php">Anillos</a></li>  
+                                <li><a href="accesorios-aretes-sahuayo.php">Aretes</a></li>                                
+                                <li><a href="accesorios-collares-sahuayo.php">Collares</a></li> 
+                                <li><a href="accesorios-cinturon-sahuayo.php">Cinturones</a></li> 
+                                <li><a href="accesorios-diadema-sahuayo.php">Diademas</a>
+                                <li><a href="accesorios-medias-sahuayo.php">Medias</a></li>
                             </ul>
                         </li>
                     </ul>                   

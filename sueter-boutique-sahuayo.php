@@ -23,64 +23,32 @@
                 
                 <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Sueter</h2>
-                <ul id="first-carousel" class="first-and-second-carousel jcarousel-skin-tango">
-                    <li> <a class="product_image"><img src="images/pr_l_1.jpg"/></a>
+                <h2 class="sub_title">Suetres</h2>
+                <ul>
+                <div>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="sueter-sahuayo.php">Sueters</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                        <div class="price_info"> <a href="sueter-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pr_l_2.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
+                            <h3><a href="sueter-tejido-sahuayo.php">Sueters Tejidos</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
+                        <div class="price_info"> <a href="sueter-tejido-sahuayo.php">+ Ver mas Modelos</a>
+                            
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pr_l_3.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/pr_l_5.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/pr_l_1.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/pr_l_2.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span><span class="pr_add">Catálago</span></button>
-                        </div>
-                    </li>
+                </div>
                 </ul>
             </div>
             <!--Product List Ends-->
-                              
-                <?php include("footer.php") ?>
-            
         </section>
         <!--Mid Section Ends-->
+        <?php include("footer.php") ?>
     </div>
     
 </div>
