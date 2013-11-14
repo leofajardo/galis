@@ -59,6 +59,9 @@
                             
                         </div>
                     </li>
+
+                    </div>
+                    <div>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-tejido-fino-sahuayo.php">Blusas Sinteticas</a></h3>
@@ -74,9 +77,7 @@
                         <div class="price_info"> <a href="bluss-top-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
-                    </li>
-                    </div>
-                    <div>                    
+                    </li>                    
                      <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-tirantes-01.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-tirantes-sahuayo.php">Blusas de Tirante</a></h3>
@@ -93,6 +94,9 @@
                             
                         </div>
                     </li>
+                    
+                    </div>
+                    <div>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-blanca-de-vestir-frente.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-vestir-sahuayo.php">Blusas de Vestir</a></h3>
