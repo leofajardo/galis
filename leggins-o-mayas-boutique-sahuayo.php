@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <?php include("head.php") ?>
+<script type="text/javascript">$(document).ready(function(){activarItemMenu("leeggins o mayas")});</script>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>

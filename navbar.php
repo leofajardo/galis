@@ -2,7 +2,7 @@
         <!--Navigation Starts-->
         <nav>
             <ul class="primary_nav">
-                <li class="active"><a href="index.php">Incio</a>
+                <li ><a href="index.php">Incio</a>
                     <!--SUbmenu Starts-->
                     
                     <!--SUbmenu Ends-->
@@ -22,7 +22,8 @@
                             <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
                             <li><a href="faldas-boutique-sahuayo.php">Faldas</a></li>
                             <li><a href="sueter-boutique-sahuayo.php">Sueter</a></li>
-                            <li><a href="accesorios-boutique-sahuayo.php">Accesorios</a></li>                
+                            <li><a href="accesorios-boutique-sahuayo.php">Accesorios</a></li>  
+                            <li><a href="contacto-boutique-sahuayo.php">Contacto</a></li>              
                             </ul>
                         </li>    
                 </ul>

@@ -64,6 +64,7 @@
                                 <li><a href="accesorios-medias-sahuayo.php">Medias</a></li>
                             </ul>
                         </li>
+                        <li class="menu_cont"><a href="contacto-boutique-sahuayo.php">Contacto</a></li>
                     </ul>                   
                 </div>
             </div>

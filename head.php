@@ -4,6 +4,7 @@
 <!--CSS-->
 <link rel="stylesheet" href="css/styles.css">
 <!--Google Webfont -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
 <link href='http://fonts.googleapis.com/css?family=Istok+Web' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" type="text/css" href="css/jquery.fancybox.css" media="screen" />
 
@@ -17,6 +18,8 @@
 <script type="text/javascript" src="js/simpletabs_1.3.js"></script>
 <script type="text/javascript" src="js/form_elements.js" ></script>
 <script type="text/javascript" src="js/custom.js"></script>
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="js/parsley.js" type="text/javascript"></script>
 
 
 

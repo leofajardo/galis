@@ -1,10 +1,12 @@
 <!DOCTYPE HTML>
 <html>
 <?php include("head.php") ?>
+<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
     <?php include("navbar.php") ?>
+
     
     <div class="section_container">
         <!--Mid Section Starts-->
@@ -94,7 +96,7 @@
                             
                         </div>
                     </li>
-                    
+
                     </div>
                     <div>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-blanca-de-vestir-frente.jpg"/></a>
@@ -109,10 +111,11 @@
                 </ul>
             </div>            
             <!--Product List Ends-->
-            <?php include("footer.php") ?>
+          
             
         </section>
         <!--Mid Section Ends-->
+        <?php include("footer.php") ?>
     </div>
     
 </div>
