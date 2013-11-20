@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+</head>
 <script type="text/javascript">$(document).ready(function(){activarItemMenu("leeggins o mayas")});</script>
 <body>
 <div class="wrapper">

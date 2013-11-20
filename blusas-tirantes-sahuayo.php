@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+</head>
+
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -28,7 +31,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-01.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-01.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -36,7 +39,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-02.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-02.jpg" ></a>
                             <div class="product_info">
                                 <h3>CN Clogs Beach/Garden Clog</h3>
                             </div>
@@ -44,7 +47,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-03.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-03.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -52,7 +55,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-04.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-04.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -60,7 +63,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-05.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-05.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -68,7 +71,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-06.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-06.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -76,7 +79,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-07.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-07.jpg" ></a>
+                       <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-07.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-07.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -84,7 +87,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-08.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-08.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-08.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-08.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -92,7 +95,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-09.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-09.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-09.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-09.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -100,7 +103,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-10.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-10.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-10.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-10.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -108,7 +111,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-tirantes-11.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-11.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-11.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-11.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -116,7 +119,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                       <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-12.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -124,7 +127,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-13.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -132,7 +135,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-14.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -140,7 +143,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-15.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -148,7 +151,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-16.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -156,7 +159,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-TIRANTE-PIEL.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>
@@ -164,7 +167,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-TIRANTE.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de tirantes</h3>
                             </div>

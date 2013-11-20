@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("pantalones")});</script>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,17 +30,17 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-CHIFON-ANIMAL-PRINT.jpg"><img src="images/pantalones/miniaturas/PANTALON-CHIFON-ANIMAL-PRINT.jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON CHIFON ANIMAL PRINT</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-DE-CHIFON-ESTAMPADO.jpg"><img src="images/pantalones/miniaturas/PANTALON-DE-CHIFON-ESTAMPADO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON DE CHIFON ESTAMPADO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

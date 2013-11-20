@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,177 +29,177 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS.jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS.jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(1).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(1).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(2).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(2).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(3).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(3).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(4).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(4).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(5).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(5).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(6).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(6).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(7).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(7).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(8).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(8).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(9).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(9).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(10).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(10).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(11).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(11).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(12).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(12).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                       <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                       <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(13).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(13).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(14).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(14).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(15).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(15).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(16).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(16).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(17).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(17).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(18).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(18).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(19).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(19).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(20).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(20).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALONES-COLOMBIANOS-(21).jpg"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS-(21).jpg"/></a>
                             <div class="product_info">
-                                <h3>Pantalones</h3>
+                                <h3>PANTALON COLOMBIAN</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

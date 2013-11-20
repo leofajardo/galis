@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+</head>
+
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -28,25 +31,33 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-de-encaje-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-01.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-encaje-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-01.jpg" ></a>
                             <div class="product_info">
-                                <h3>Blusa de encaje</h3>
+                                <h3>Blusa de Encaje</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-de-encaje-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-02.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-encaje-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-02.jpg" ></a>
                             <div class="product_info">
-                                <h3>Blusa de encaje</h3>
+                                <h3>Blusa de Encaje</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-de-encaje-con-cuello-bordado.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-con-cuello-bordado.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-encaje-con-cuello-bordado.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-encaje-con-cuello-bordado.jpg" ></a>
                             <div class="product_info">
-                                <h3>Blusa de encaje cuello bordado</a></h3>
+                                <h3>Blusa de Encaje cuello bordado</a></h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-ENCAJE.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                            <div class="product_info">
+                                <h3>Blusa de Encaje </a></h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

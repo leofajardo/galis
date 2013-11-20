@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,25 +29,25 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="chamarras" href="images/chamarras/CHAMARRA-SINTETICA.jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-SINTETICA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras sintetica</h3>
+                                <h3>CHAMARRA SINTETICA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="chamarras" href="images/chamarras/CHAMARRA-SINTETICA-(2).jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-SINTETICA-(2).jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras sintetica</h3>
+                                <h3>CHAMARRA SINTETICA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="chamarras" href="images/chamarras/CHAMARRA-SINTETICA-CON-ALGONON.jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-SINTETICA-CON-ALGONON.jpg" ></a>
                             <div class="product_info">
-                                <h3>Chamarras sintetica</h3>
+                                <h3>CHAMARRA SINTETICA CON ALGONON</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

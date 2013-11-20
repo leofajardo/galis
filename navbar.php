@@ -7,13 +7,13 @@
                     
                     <!--SUbmenu Ends-->
                 </li>
-                <li><a href="blusas-boutique-sahuayo.php">Blusas</a></li>
-                <li><a href="pantalones-boutique-sahuayo.php">Pantalones</a> </li>   
-                <li><a href="chamarras-boutique-sahuayo.php">Chamarras</a></li>
-                <li><a href="vestidos-boutique-sahuayo.php">Vestidos</a></li>
-                <li><a href="chalecos-boutique-sahuayo.php">Chalecos</a></li>
-                <li><a href="saco-boutique-sahuayo.php">Sacos</a></li>
-                <li><a href="mas-opciones-boutique-sahuayo.php">Ver mas...</a>
+                <li><a id="blusas" href="blusas-boutique-sahuayo.php">Blusas</a></li>
+                <li><a id="pantalones" href="pantalones-boutique-sahuayo.php">Pantalones</a> </li>   
+                <li><a id="chamarras" href="chamarras-boutique-sahuayo.php">Chamarras</a></li>
+                <li><a id="vestidos" href="vestidos-boutique-sahuayo.php">Vestidos</a></li>
+                <li><a id="chalecos" href="chalecos-boutique-sahuayo.php">Chalecos</a></li>
+                <li><a id="saco" href="saco-boutique-sahuayo.php">Sacos</a></li>
+                <li><a id="mas" href="mas-opciones-boutique-sahuayo.php">Ver mas...</a>
                 <ul class="sub_menu">
                         <li> 
                             <ul>

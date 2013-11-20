@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>

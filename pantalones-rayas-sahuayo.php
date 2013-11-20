@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                       <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                       <li> <a class="product_image fancybox" href="images/pantalones/PANTALON-RAYAS.jpg"><img src="images/pantalones/miniaturas/PANTALON-RAYAS.jpg"/></a>
                             <div class="product_info">
                                 <h3>Pantalones</h3>
                             </div>

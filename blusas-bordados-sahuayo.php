@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+</head>
+
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -28,7 +31,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-de-cuello-bordado.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-cuello-bordado.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-cuello-bordado.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-cuello-bordado.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de cuello bordado</h3>
                             </div>
@@ -36,7 +39,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/Blusa-de-cuello-bordado-rojo.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-cuello-bordado-rojo.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-cuello-bordado-rojo.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-cuello-bordado-rojo.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de cuello bordado rojo</h3>
                             </div>
@@ -44,7 +47,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TIRA-BORDADA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Bluas Bordado</h3>
                             </div>

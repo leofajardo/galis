@@ -1,7 +1,15 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+<head>
+    <?php include("headconten.php") ?>
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
+    <script src="js/bootstrap.js" type="text/javascript"></script>
+    <script src="js/parsley.js" type="text/javascript"></script>
+
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("contacto")});</script>
+
+</head>
+
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>

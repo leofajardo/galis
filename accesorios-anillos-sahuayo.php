@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ANILLO-SWAROSKI-(1).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Anillo Swaroski</h3>
                             </div>
@@ -35,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ANILLO-SWAROSKI-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Anillo Swaroski</h3>
                             </div>

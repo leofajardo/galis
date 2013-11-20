@@ -46,7 +46,7 @@
                             </ul>
                         </li>
                         <li><a href="leggins-o-mayas-boutique-sahuayo.php">Leggin o Maya</a></li>                        
-                        <li class="menu_cont"><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
+                        <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
                         <li class="menu_cont"><a href="faldas-">Faldas</a></li>
                         <li class="menu_cont"><a href="#">Sueter</a>
                             <ul class="side_sub_menu">

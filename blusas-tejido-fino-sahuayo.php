@@ -1,7 +1,10 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
+</head>
+
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -28,7 +31,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                         <li> <a class="product_image fancybox" href="images/blusas/Blusa-tejido-con-lentejuela.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tejido-con-lentejuela.jpg" ></a>
+                         <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tejido-con-lentejuela.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tejido-con-lentejuela.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido con lentejuela</h3>
                             </div>
@@ -36,7 +39,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -44,7 +47,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -52,7 +55,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(3).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -60,7 +63,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(4).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -68,7 +71,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(5).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -76,7 +79,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(6).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -84,7 +87,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(7).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -92,7 +95,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(8).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -100,7 +103,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(9).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -108,7 +111,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TEJIDO-(10).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -116,7 +119,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-TEJIDO.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>
@@ -124,7 +127,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-TEJIDO-CORTE-DE-ESPALDA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa tejido</h3>
                             </div>

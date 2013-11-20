@@ -81,7 +81,7 @@ ul.sub_menu > li > ul{border-top: solid 1px #5f5a56; margin-top:10px;}
 .products_list .product_info small{ color:#a2a2a2; font-size:13px; line-height:16px;}
 .products_list .price_info button{ float:right; background:none;border:0px; padding:0px; height:32px; line-height:100%; overflow:hidden; cursor:pointer;}
 .products_list .price_info button .pr_price{ background:#d8246d;  padding:10px; color:#fff; font-size:14px; font-weight:bold; float:left; clear:both; width:100%; text-transform:uppercase;}
-.products_list .price_info button .pr_add{ padding:10px; color:#fff; font-size:11px; font-weight:bold; text-transform:uppercase;  float:left; clear:both; width:85%; margin-top:0px;}
+.products_list .price_info button .pr_add{ padding:10px; color:#fff; font-size:11px; font-weight:bold; text-transform:uppercase;  float:left; clear:both; width:100%; margin-top:0px;}
 .products_list li:hover .pr_add{ margin-top:-32px;-moz-transition:all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out;}
 .products_list .price_info a{ color:#a2a2a2; text-decoration:none; font-size:11px; display:inline-block; padding-top:10px;}
 
@@ -93,13 +93,13 @@ ul.sub_menu > li > ul{border-top: solid 1px #5f5a56; margin-top:10px;}
 .products_list_list a.product_image img{ border:solid 2px #fff; height:200px;}
 .products_list_list li:hover img{-moz-transition:all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out;}
 .products_list_list .product_info{ margin-bottom:10px; padding-bottom:12px; border-bottom:solid 1px #EAEAEA; float:right; width:560px;}
-.products_list_list .price_info{float:right; width:560px;}
+.products_list_list .price_info{float:right; width:100%;}
 .products_list_list .product_info h3{ font-size:14px; font-weight:normal; padding:12px 0px;}
 .products_list_list .product_info h3 a{color:#000000; text-decoration:none;}
 .products_list_list .product_info small{ color:#a2a2a2; font-size:13px; line-height:16px;}
 .products_list_list .price_info button{ float:right; background:none;border:0px; padding:0px; height:32px; line-height:100%; overflow:hidden; cursor:pointer;}
-.products_list_list .price_info button .pr_price{ background:#544f4b;  padding:10px; color:#fff; font-size:14px; font-weight:bold; float:left; clear:both; width:83%; text-transform:uppercase;}
-.products_list_list .price_info button .pr_add{ padding:10px; color:#fff; font-size:11px; font-weight:bold; text-transform:uppercase;  float:left; clear:both; width:83%; margin-top:0px;}
+.products_list_list .price_info button .pr_price{ background:#544f4b;  padding:10px; color:#fff; font-size:14px; font-weight:bold; float:left; clear:both; width:100%; text-transform:uppercase;}
+.products_list_list .price_info button .pr_add{ padding:10px; color:#fff; font-size:11px; font-weight:bold; text-transform:uppercase;  float:left; clear:both; width:100%; margin-top:0px;}
 .products_list_list li:hover .pr_add{ margin-top:-32px;-moz-transition:all 0.3s ease-out 0s; -webkit-transition: all 0.3s ease-out;}
 .products_list_list .price_info a{ color:#a2a2a2; text-decoration:none; font-size:11px; display:inline-block; padding-top:10px;}
 .products_list_list a.black{ color:#544F4B; text-decoration:none; font-weight:bold; display:block; margin:10px 0px;}
