@@ -29,33 +29,33 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="chalecos" href="images/chalecos/CHALECO-CON-PIEDRAS.jpg"><img src="images/chalecos/miniaturas/CHALECO-CON-PIEDRAS.jpg"/></a>
                             <div class="product_info">
-                                <h3>Chalecos</h3>
+                                <h3>CHALECO CON PIEDRAS</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="chalecos" href="images/chalecos/CHALECO-CON-PIEL.jpg"><img src="images/chalecos/miniaturas/CHALECO-CON-PIEL.jpg"/></a>
                             <div class="product_info">
-                                <h3>Chalecos</h3>
+                                <h3>CHALECO CON PIEL</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="chalecos" href="images/chalecos/CHALECO-COTE-CAZADOR.jpg"><img src="images/chalecos/miniaturas/CHALECO-COTE-CAZADOR.jpg"/></a>
                             <div class="product_info">
-                                <h3>Chalecos</h3>
+                                <h3>CHALECO CORTE CAZADOR</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="chalecos" href="images/chalecos/CHALECO-SINTETICO.jpg"><img src="images/chalecos/miniaturas/CHALECO-SINTETICO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Chalecos</h3>
+                                <h3>CHALECO SINTETICO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

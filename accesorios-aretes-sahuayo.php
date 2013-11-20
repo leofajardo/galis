@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/ARETES-SWAROSKI-(1).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/accesorios/ARETES-SWAROSKI-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/ARETES-SWAROSKI-(1).jpg" ></a>
                             <div class="product_info">
                                 <h3>Aretes Swaroski</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/ARETES-SWAROSKI-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/accesorios/ARETES-SWAROSKI-(2).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/ARETES-SWAROSKI-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Aretes Swaroski</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/ARETES-SWAROSKI-(3).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/accesorios/ARETES-SWAROSKI-(3).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/ARETES-SWAROSKI-(3).jpg" ></a>
                             <div class="product_info">
                                 <h3>Aretes Swaroski</h3>
                             </div>

@@ -29,15 +29,31 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/COACH-DIADEMA.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COACH-DIADEMA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Coach Diadema</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
+                        </li>                        
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DIADEMA-TEJIDO-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DIADEMA-TEJIDO-(1).jpg" ></a>
+                            <div class="product_info">
+                                <h3>Diadema Tejido</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DIADEMA-TEJIDO-(2).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DIADEMA-TEJIDO-(2).jpg" ></a>
+                            <div class="product_info">
+                                <h3>Diadema Tejido</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DIADEMA-FLOREADA.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DIADEMA-FLOREADA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Diadema Floreada</h3>
                             </div>
@@ -45,23 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
-                            <div class="product_info">
-                                <h3>Diadema Tejido</h3>
-                            </div>
-                            <div class="price_info"> 
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
-                            <div class="product_info">
-                                <h3>Diadema Tejido</h3>
-                            </div>
-                            <div class="price_info"> 
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DONA-PARA-CHONGO.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DONA-PARA-CHONGO.jpg" ></a>
                             <div class="product_info">
                                 <h3>Dona para Chongo</h3>
                             </div>

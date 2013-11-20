@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/BOXER.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER.jpg" ></a>
                             <div class="product_info">
                                 <h3>Boxer</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/BOXER-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER-(2).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Boxer</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/BOXER-(3).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER-(3).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER-(3).jpg" ></a>
                             <div class="product_info">
                                 <h3>Boxer</h3>
                             </div>
@@ -53,7 +53,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/BOXER-FOREVER-21.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER-FOREVER-21.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER-FOREVER-21.jpg" ></a>
                             <div class="product_info">
                                 <h3>Boxer</h3>
                             </div>
@@ -61,7 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/BOXER-FOREVER-21-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER-FOREVER-21-(2).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER-FOREVER-21-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Boxer</h3>
                             </div>

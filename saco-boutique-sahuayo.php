@@ -29,89 +29,89 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-ESTAMPADO.jpg"><img src="images/sacos/miniaturas/SACO-ESTAMPADO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO ESTAMPADO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-ESTAMPADO-(2).jpg"><img src="images/sacos/miniaturas/SACO-ESTAMPADO-(2).jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO ESTAMPADO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-LICRA.jpg"><img src="images/sacos/miniaturas/SACO-LICRA.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO LICRA</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-LICRA-DE-RAYAS.jpg"><img src="images/sacos/miniaturas/SACO-LICRA-DE-RAYAS.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO LICRA DE RAYAS</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-SINTETICO.jpg"><img src="images/sacos/miniaturas/SACO-SINTETICO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO SINTETICO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-BROCADO.jpg"><img src="images/sacos/miniaturas/SACO-DE-BROCADO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE BROCADO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-CHIFON.jpg"><img src="images/sacos/miniaturas/SACO-DE-CHIFON.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE CHIFON</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-LINO-(2).jpg"><img src="images/sacos/miniaturas/SACO-DE-LINO-(2).jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE LINO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-LINO-(3).jpg"><img src="images/sacos/miniaturas/SACO-DE-LINO-(3).jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE LINO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-LINO.jpg"><img src="images/sacos/miniaturas/SACO-DE-LINO.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE LINO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                        <li> <a class="product_image fancybox" rel="sacos" href="images/sacos/SACO-DE-VESTIR.jpg"><img src="images/sacos/miniaturas/SACO-DE-VESTIR.jpg"/></a>
                             <div class="product_info">
-                                <h3>Saco </h3>
+                                <h3>SACO DE VESTIR</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

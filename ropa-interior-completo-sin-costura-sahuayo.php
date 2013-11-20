@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/CALZON-SIN-COSTURA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURA.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Calszon sin Costura</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/CALZON-SIN-COSTURAS.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURAS.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURAS.jpg" ></a>
                             <div class="product_info">
                                 <h3>Calszon sin Costura</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/CALZON-SIN-COSTURAS-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURAS-(2).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURAS-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Calszon sin Costura</h3>
                             </div>
@@ -53,7 +53,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/CALZON-SIN-COSTURAS-(3).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURAS-(3).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURAS-(3).jpg" ></a>
                             <div class="product_info">
                                 <h3>Calszon sin Costura</h3>
                             </div>
@@ -61,7 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/CALZON-SIN-COSTURAS-(4).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURAS-(4).jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURAS-(4).jpg" ></a>
                             <div class="product_info">
                                 <h3>Calszon sin Costura</h3>
                             </div>

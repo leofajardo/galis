@@ -29,104 +29,105 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR.jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Abstracto</h3>
+                                <h3>COLLAR</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-BARBA.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-BARBA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Barba</h3>
+                                <h3>COLLAR BARBA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-CUELLO.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-CUELLO.jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Cuello</h3>
+                                <h3>COLLAR CUELLO/h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(9).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(9).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Placa</h3>
+                                <h3>COLLARES SWAROSKI</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(11).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(11).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Tribaleño</h3>
+                                <h3>COLLARES SWAROSKI</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-PLACA.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-PLACA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Tribaleño</h3>
+                                <h3>COLLAR PLACA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-TRIBALEÑO-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-TRIBALEÑO-(1).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar</h3>
+                                <h3>COLLAR TRIBALEÑO</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-TRIBALEÑO-(2).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-TRIBALEÑO-(2).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Swaroski</h3>
-                            </div>
-                            <div class="price_info"> 
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li><li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
-                            <div class="product_info">
-                                <h3>Collar Swaroski</h3>
+                                <h3>COLLAR TRIBALEÑO</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR-ABSTRACTO.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR-ABSTRACTO.jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Swaroski</h3>
+                                <h3>COLLAR ABSTRACTO</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(6).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(6).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Swaroski</h3>
+                                <h3>COLLARES SWAROSKI</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(7).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(7).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Swaroski</h3>
+                                <h3>COLLARES SWAROSKI</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(8).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(8).jpg" ></a>
                             <div class="product_info">
-                                <h3>Collar Swaroski</h3>
+                                <h3>COLLARES SWAROSKI</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLARES-SWAROSKI-(10).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(10).jpg" ></a>
+                            <div class="product_info">
+                                <h3>COLLARES SWAROSKI</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

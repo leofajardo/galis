@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(1).jpg" ></a>
                             <div class="product_info">
                                 <h3>Cinturon Delgado Resorte</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(2).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Cinturon Delgado Resorte</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(3).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(3).jpg" ></a>
                             <div class="product_info">
                                 <h3>Cinturon Delgado Resorte</h3>
                             </div>
@@ -53,7 +53,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(4).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(4).jpg" ></a>
                             <div class="product_info">
                                 <h3>Cinturon Delgado Resorte</h3>
                             </div>
@@ -61,7 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(5).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(5).jpg" ></a>
                             <div class="product_info">
                                 <h3>Cinturon Delgado Resorte</h3>
                             </div>

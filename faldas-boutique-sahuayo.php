@@ -29,62 +29,62 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-DE-ALGODON-CON-LICRA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-DE-ALGODON-CON-LICRA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Corta Sintetica</h3>
+                                <h3>FALDA DE ALGODON CON LICRA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-DE-TIRA-BORDADA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-DE-TIRA-BORDADA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Corte Chanel Sintetica</h3>
+                                <h3>FALDA DE TIRA BORDADA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-CORTA-SINTETICA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-CORTA-SINTETICA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Sintetica con Estoperoles</h3>
+                                <h3>FALDA CORTE CHANEL SINTETICA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-CORTE-CHANEL-SINTETICA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-CORTE-CHANEL-SINTETICA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Sintetica</h3>
+                                <h3>FALDA CORTE CHANEL SINTETICA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-DE-ALGODON-CON-LICRA-(2).jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-DE-ALGODON-CON-LICRA-(2).jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Algodon con Licra</h3>
+                                <h3>FALDA DE ALGODON CON LICRA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-SINTETICA-CON-ESTOPEROLES.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-SINTETICA-CON-ESTOPEROLES.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda Algodon con Licra</h3>
+                                <h3>FALDA SINTETICA CON ESTOPEROLES</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALTA-SINTETICA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALTA-SINTETICA.jpg" ></a>
                             <div class="product_info">
-                                <h3>Falda de Tira Bordada</h3>
+                                <h3>FALTA SINTETICA</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>
+                        </li>                        
                     </ul>
                 </div>
                 <!--Product List Ends-->
