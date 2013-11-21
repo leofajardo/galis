@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<?php include("head.php") ?>
+<head>
+    <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("chamarras")});</script>
+</head>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -26,7 +29,7 @@
                 <h2 class="sub_title">Chamarras</h2>
                 <ul>
                 <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-DE-MEZCLILLA-DESLAVADA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-mezclilla-sahuayo.php">Chamarras Mezclilla</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -34,7 +37,7 @@
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-SINTETICA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-sinteticas-sahuayo.php">Chamarras Sintetica</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -42,7 +45,7 @@
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-TORERITA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-toreritas-sahuayo.php">Chamarras Torerita</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>

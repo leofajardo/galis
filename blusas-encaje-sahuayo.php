@@ -55,7 +55,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-ENCAJE.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-ENCAJE.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-ENCAJE.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa de Encaje </a></h3>
                             </div>

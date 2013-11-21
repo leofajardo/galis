@@ -28,7 +28,7 @@
                 <h2 class="sub_title">Ropa Interior</h2>
                 <ul>
                 <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="ropa-interior-completo-sin-costura-sahuayo.php">Completo sin Costura</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -36,7 +36,7 @@
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/ropa-interior/miniaturas/BOXER.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="ropa-interior-boxer-sahuayo.php">Boxer</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>

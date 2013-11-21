@@ -28,7 +28,7 @@
                 <h2 class="sub_title">Suetres</h2>
                 <ul>
                 <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-ESTAMPADO.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="sueter-sahuayo.php">Sueters</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -36,7 +36,7 @@
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-TEJIDO.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="sueter-tejido-sahuayo.php">Sueters Tejidos</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>

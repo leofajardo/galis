@@ -27,24 +27,8 @@
             <div class="products_list products_slider">
                 <h2 class="sub_title">Accedorios</h2>
                 <ul>
-                <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="accesorios-anillos-sahuayo.php">Anillos</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="accesorios-anillos-sahuayo.php">+ Ver mas Modelos</a>
-                            
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="accesorios-aretes-sahuayo.php">Aretes</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="accesorios-aretes-sahuayo.php">+ Ver mas Modelos</a>
-                            
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                <div>                    
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/COLLAR.jpg" /></a>
                         <div class="product_info">
                             <h3><a href="accesorios-collares-sahuayo.php">Collares</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -52,7 +36,7 @@
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(1).jpg"/></a>
                         <div class="product_info">
                             <h3><a href="accesorios-cintos-sahuayo.php">Cinturones</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
@@ -60,21 +44,38 @@
                             
                         </div>
                     </li>
-                </div>
-                <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+               
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/DIADEMA-FLOREADA.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="accesorios-diademas-sahuayo.php">Diademas</a></h3>
+                            <h3><a href="accesorios-diadema-sahuayo.php">Diademas</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="accesorios-diademas-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/MEDIA-DE-RED-(1).jpg"/></a>
                         <div class="product_info">
                             <h3><a href="accesorios-medias-sahuayo.php">Medias</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
                         <div class="price_info"> <a href="accesorios-medias-sahuayo.php">+ Ver mas Modelos</a>
+                            
+                        </div>
+                    </li>
+                </div>
+                <div>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="accesorios-anillos-sahuayo.php">Anillos</a></h3>
+                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                        <div class="price_info"> <a href="accesorios-anillos-sahuayo.php">+ Ver mas Modelos</a>
+                            
+                        </div>
+                    </li>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ARETES-SWAROSKI-(1).jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="accesorios-aretes-sahuayo.php">Aretes</a></h3>
+                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                        <div class="price_info"> <a href="accesorios-aretes-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
                     </li>

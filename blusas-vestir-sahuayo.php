@@ -47,7 +47,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR,-CORTE-DE-LA-ESPALDA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR,-CORTE-DE-LA-ESPALDA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR,-CORTE-DE-LA-ESPALDA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>
@@ -55,7 +55,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>
@@ -63,7 +63,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-ANIMAL-PRINT.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-ANIMAL-PRINT.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR-ANIMAL-PRINT.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>
@@ -71,7 +71,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-ANIMAL-PRINT-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-ANIMAL-PRINT-(2).jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR-ANIMAL-PRINT-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>
@@ -79,7 +79,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-DE-RAYAS.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-DE-RAYAS.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR-DE-RAYAS.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>
@@ -87,7 +87,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-EN-TRASPARENCIAS-DORADAS.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-VESTIR-EN-TRASPARENCIAS-DORADAS.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-VESTIR-EN-TRASPARENCIAS-DORADAS.jpg" ></a>
                             <div class="product_info">
                                 <h3>Blusa blanca de vestir</h3>
                             </div>

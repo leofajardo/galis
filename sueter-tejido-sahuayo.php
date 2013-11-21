@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO.jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO.jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-(1).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-(1).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-(3).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-(3).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -53,7 +53,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-(2).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -61,7 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-(4).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-(4).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -69,7 +69,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-(5).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-(5).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -77,7 +77,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO.jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO.jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
@@ -85,7 +85,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-PARTE-DE-LA-ESPALDA-(2).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-PARTE-DE-LA-ESPALDA-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino parte de Espalda</h3>
                             </div>
@@ -93,17 +93,9 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-PARTE-DE-LA-ESPALDA.jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-PARTE-DE-LA-ESPALDA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino parte de Espalda</h3>
-                            </div>
-                            <div class="price_info"> 
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image fancybox" href="images/blusas/espacio-500.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
-                            <div class="product_info">
-                                <h3>Sueter Tejido</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

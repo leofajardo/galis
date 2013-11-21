@@ -47,7 +47,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TIRA-BORDADA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/espacio-miniatura.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/BLUSA-DE-TIRA-BORDADA.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/BLUSA-DE-TIRA-BORDADA.jpg" ></a>
                             <div class="product_info">
                                 <h3>Bluas Bordado</h3>
                             </div>

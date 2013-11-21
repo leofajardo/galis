@@ -64,10 +64,9 @@
                             
                         </div>
                     </li>
-
                     </div>
                     <div>
-                    <li> <a class="product_image"><img src="images/blusas/miniaturas/espacio-miniatura.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/BLUSA-SINTETICA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="blusas-tejido-fino-sahuayo.php">Blusas Sinteticas</a></h3>
                             <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
