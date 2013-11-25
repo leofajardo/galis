@@ -29,7 +29,7 @@
                 
                 <div class="products_list products_slider">
                     <ul>                        
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-06.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-06.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-06.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -37,7 +37,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-07.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-07.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-07.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-07.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -45,7 +45,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-08.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-08.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-08.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-08.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -53,7 +53,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-09.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-09.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-09.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-09.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -61,7 +61,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-10.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-10.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-10.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-10.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -69,7 +69,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-11.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-11.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-11.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-11.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -77,7 +77,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-12.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-12.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-12.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-12.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -85,7 +85,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-13.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-13.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-13.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-13.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -93,7 +93,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-14.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-14.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-14.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-14.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>
@@ -101,7 +101,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-15.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Top-15.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Top-15.JPG"><img class="imagen-interna" src="images/blusas/miniaturas/Top-15.JPG" ></a>
                             <div class="product_info">
                                 <h3>Top</h3>
                             </div>

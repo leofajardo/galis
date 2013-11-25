@@ -1,63 +1,63 @@
 <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">New Products</h2>
+                <h2 class="sub_title">Nuevos Productos</h2>
                 <ul>
                 <div>
-                    <li> <a class="product_image"><img src="images/chamarra-torerita.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-de-cuello-bordado.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Blusas</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/media-sencilla.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Pantalones</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pantalon-cinto.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-TORERITA.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Chamarras</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/anillo-swaroski.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-PARTE-DE-LA-ESPALDA-(2).jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Sueter</a></h3>
+                            <small></small> </div>
+                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                        </div>
+                    </li>
+                    <li> <a class="product_image"><img src="images/anillo-swaroski.JPG"/></a>
+                        <div class="product_info">
+                            <h3><a href="leisure_detail.html">Anullos</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
                 </div>
-                <div>
-                    <li> <a class="product_image"><img src="images/pr_l_1.jpg"/></a>
+                <div>                    
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(7).jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Collares</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pr_l_2.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ARETES-SWAROSKI-(3).jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Aretes</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/pr_l_1.jpg"/></a>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/MEDIA-DE-RED-(2).jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                        </div>
-                    </li>
-                    <li> <a class="product_image"><img src="images/pr_l_2.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="leisure_detail.html">CN Clogs Beach/Garden Clog</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <h3><a href="leisure_detail.html">Medias</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>

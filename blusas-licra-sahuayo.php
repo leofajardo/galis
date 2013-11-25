@@ -63,7 +63,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-01.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-01.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>
@@ -71,7 +71,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-02.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-02.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-02.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>
@@ -79,7 +79,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-03.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-03.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-03.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>
@@ -87,7 +87,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-04.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-04.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-04.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>
@@ -95,7 +95,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-05.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-05.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-05.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>
@@ -103,7 +103,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-06.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="blusas" href="images/blusas/Blusa-de-licra-06.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-licra-06.JPG" ></a>
                             <div class="product_info">
                                 <h3>Blusa de licra</h3>
                             </div>

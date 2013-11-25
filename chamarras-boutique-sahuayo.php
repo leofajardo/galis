@@ -32,7 +32,7 @@
                     <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-DE-MEZCLILLA-DESLAVADA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-mezclilla-sahuayo.php">Chamarras Mezclilla</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="chamarras-mezclilla-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
@@ -40,7 +40,7 @@
                     <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-SINTETICA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-sinteticas-sahuayo.php">Chamarras Sintetica</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="chamarras-sinteticas-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
@@ -48,7 +48,7 @@
                     <li> <a class="product_image"><img src="images/chamarras/miniaturas/CHAMARRA-TORERITA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="chamarras-toreritas-sahuayo.php">Chamarras Torerita</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="chamarras-toreritas-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
