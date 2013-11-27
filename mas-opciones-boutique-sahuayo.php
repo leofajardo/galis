@@ -32,16 +32,23 @@
                 <div>
                     <li> <a class="product_image"><img src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="#">Ropa Interior</a></h3>
+                            <h3><a href="ropa-interior-boutique-sahuayo.php">Ropa Interior</a></h3>
                             <small></small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                        <div class="price_info"> <a href="ropa-interior-boutique-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
                     </li>
-                    
+                    <li> <a class="product_image"><img src="images/leggins/miniaturas/MALLA-TRIVAL.jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="leggins-o-mayas-boutique-sahuayo.php">Leggins o Mayas</a></h3>
+                            <small></small> </div>
+                        <div class="price_info"> <a href="leggins-o-mayas-boutique-sahuayo.php">+ Ver mas Modelos</a>
+                            
+                        </div>
+                    </li>
                     <li> <a class="product_image"><img src="images/blusones/miniaturas/BLUSON-DE-ALGODON.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="#">Blusones</a></h3>
+                            <h3><a href="blusones-boutique-sahuayo.php">Blusones</a></h3>
                             <small></small> </div>
                         <div class="price_info"> <a href="blusones-boutique-sahuayo.php">+ Ver mas Modelos</a>
                             
@@ -49,37 +56,27 @@
                     </li>
                     <li> <a class="product_image"><img src="images/faldas/miniaturas/FALDA-DE-ALGODON-CON-LICRA.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="#">Faldas</a></h3>
+                            <h3><a href="faldas-boutique-sahuayo.php">Faldas</a></h3>
                             <small></small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                        <div class="price_info"> <a href="faldas-boutique-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
-                    </li>
-                
-                    
-                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="#">Accesorios</a></h3>
-                            <small></small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            
-                        </div>
-                    </li>
+                    </li> 
                 </div>
-                <div>
-                    <li> <a class="product_image"><img src="images/leggins/miniaturas/MALLA-TRIVAL.jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="#">Leggins o Mayas</a></h3>
-                            <small></small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            
-                        </div>
-                    </li>
+                <div>               
                     <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-ESTAMPADO.jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="#">Sueter</a></h3>
+                            <h3><a href="sueter-boutique-sahuayo.php">Sueter</a></h3>
                             <small></small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                        <div class="price_info"> <a href="sueter-boutique-sahuayo.php">+ Ver mas Modelos</a>
+                            
+                        </div>
+                    </li>
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="accesorios-boutique-sahuayo.php">Accesorios</a></h3>
+                            <small></small> </div>
+                        <div class="price_info"> <a href="accesorios-boutique-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
                     </li>
