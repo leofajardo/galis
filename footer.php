@@ -25,21 +25,21 @@
                 </li>
                 <li> 
                     <ul>
-                        <iframe width="300" height="200" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Paseo+de+la+luna+111,+Solares+Residencial,+Valle+Real,+M%C3%A9xico&amp;aq=0&amp;oq=Paseo+de+la+Luna+111+sol&amp;sll=37.0625,-95.677068&amp;sspn=41.95363,79.013672&amp;ie=UTF8&amp;hq=&amp;hnear=Paseo+de+la+luna,+Jalisco,+M%C3%A9xico&amp;t=m&amp;ll=20.721518,-103.457479&amp;spn=0.012042,0.012875&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>    
+                        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+MICH&amp;aq=0&amp;oq=Constituci%C3%B3n+111+&amp;sll=19.151927,-101.900693&amp;sspn=3.320665,4.938354&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+Michoac%C3%A1n&amp;z=14&amp;ll=20.057336,-102.72066&amp;output=embed"></iframe>
                     </ul>
                 </li>
             </ul>
             <div class="footer_customblock">
                 <div class="shipping_info"> <span>Encuentranos en:</span><br>
                     <small>
-                    Constitución #   <br/>
+                    Constitución #111   <br/>
                     C.P 59000 <br/>
                     Sahuayo Michiacán
                     </small> </div>
-                <div class="contact_info"> <big>353-570-0000</big> </div>
+                <div class="contact_info"> <big>353-531-7063</big> </div>
             </div>
             <address>
-            Copyright © 2012 Leisure. All Rights Reserved. 
+            © 2013 Galis Boutique. Todos los derechos reservados. Visítanos en Facebook 
             </address>
         </footer>
         <!--Footer Ends-->

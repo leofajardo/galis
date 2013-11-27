@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("pantalones")});</script>
 </head>
+<title>Pantalones Cinto Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -14,7 +16,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -38,14 +40,6 @@
                             </div>
                         </li>
                         <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-CINTO-(2).jpg"><img src="images/pantalones/miniaturas/PANTALON-CINTO-(2).jpg"/></a>
-                            <div class="product_info">
-                                <h3>PANTALON CINTO</h3>
-                            </div>
-                            <div class="price_info">
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
-                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-CINTO-(3).jpg"><img src="images/pantalones/miniaturas/PANTALON-CINTO-(3).jpg"/></a>
                             <div class="product_info">
                                 <h3>PANTALON CINTO</h3>
                             </div>

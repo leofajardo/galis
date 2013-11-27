@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
+<title>Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -12,7 +14,7 @@
         <!--Mid Section Starts-->
         <section>
             <!--SIDE NAV STARTS-->
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -31,7 +33,7 @@
                     <li> <a class="product_image"><img src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="#">Ropa Interior</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             
                         </div>
@@ -40,7 +42,7 @@
                     <li> <a class="product_image"><img src="images/blusones/miniaturas/BLUSON-DE-ALGODON.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="#">Blusones</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="blusones-boutique-sahuayo.php">+ Ver mas Modelos</a>
                             
                         </div>
@@ -48,26 +50,27 @@
                     <li> <a class="product_image"><img src="images/faldas/miniaturas/FALDA-DE-ALGODON-CON-LICRA.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="#">Faldas</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
+                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
+                            
+                        </div>
+                    </li>
+                
+                    
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
+                        <div class="product_info">
+                            <h3><a href="#">Accesorios</a></h3>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             
                         </div>
                     </li>
                 </div>
                 <div>
-                    
-                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
-                        <div class="product_info">
-                            <h3><a href="#">Accesorios</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
-                        <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
-                            
-                        </div>
-                    </li>
                     <li> <a class="product_image"><img src="images/leggins/miniaturas/MALLA-TRIVAL.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="#">Leggins o Mayas</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             
                         </div>
@@ -75,7 +78,7 @@
                     <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-ESTAMPADO.jpg"/></a>
                         <div class="product_info">
                             <h3><a href="#">Sueter</a></h3>
-                            <small>Comfortable and fun to wear these clogs are the latest trend in fash</small> </div>
+                            <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                             
                         </div>

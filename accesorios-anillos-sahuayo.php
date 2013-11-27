@@ -3,6 +3,7 @@
 <head>
     <?php include("headconten.php") ?>
 </head>
+<title>Accesorios Anillos Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -14,7 +15,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 

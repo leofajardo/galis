@@ -2,8 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<script type="text/javascript">$(document).ready(function(){activarItemMenu("leeggins o mayas")});</script>
+<title>Leggins o Mayas Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -15,7 +16,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -70,14 +71,6 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="leggins" href="images/leggins/LEGGINGS-CIERRE-(3).jpg"><img class="imagen-interna" src="images/leggins/miniaturas/LEGGINGS-CIERRE-(3).jpg" ></a>
-                            <div class="product_info">
-                                <h3>LEGGINGS CIERRE</h3>
-                            </div>
-                            <div class="price_info"> 
-                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
-                            </div>
-                        </li>
                         <li> <a class="product_image fancybox" rel="leggins" href="images/leggins/LEGGINGS-PETO-ALTO.jpg"><img class="imagen-interna" src="images/leggins/miniaturas/LEGGINGS-PETO-ALTO.jpg" ></a>
                             <div class="product_info">
                                 <h3>LEGGINGS PETO ALTO</h3>
@@ -86,7 +79,7 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="leggins" href="images/leggins/LEGGINGS-TRIBALEÑA.jpg"><img class="imagen-interna" src="images/leggins/miniaturas/LEGGINGS-TRIBALEÑA.jpg" ></a>
+                        <li> <a class="product_image fancybox" rel="leggins" href="images/leggins/LEGGINGS-TRIBALENA.jpg"><img class="imagen-interna" src="images/leggins/miniaturas/LEGGINGS-TRIBALENA.jpg" ></a>
                             <div class="product_info">
                                 <h3>LEGGINGS TRIBALEÑA</h3>
                             </div>

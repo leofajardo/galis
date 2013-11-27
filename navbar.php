@@ -17,13 +17,13 @@
                 <ul class="sub_menu">
                         <li> 
                             <ul>
-                            <li><a href="ropa-interior-boutique-sahuayo.php">Ropa Interior</a></li>
-                            <li><a href="leggins-o-mayas-boutique-sahuayo.php">Leggins o Mayas</a></li>                            
-                            <li><a href="blusones-boutique-sahuayo.php">Blusones</a></li>
-                            <li><a href="faldas-boutique-sahuayo.php">Faldas</a></li>
-                            <li><a href="sueter-boutique-sahuayo.php">Sueter</a></li>
-                            <li><a href="accesorios-boutique-sahuayo.php">Accesorios</a></li>  
-                            <li><a href="contacto-boutique-sahuayo.php">Contacto</a></li>              
+                            <li><a id="mas" href="ropa-interior-boutique-sahuayo.php">Ropa Interior</a></li>
+                            <li><a id="mas" href="leggins-o-mayas-boutique-sahuayo.php">Leggins o Mayas</a></li>                            
+                            <li><a id="mas" href="blusones-boutique-sahuayo.php">Blusones</a></li>
+                            <li><a id="mas" href="faldas-boutique-sahuayo.php">Faldas</a></li>
+                            <li><a id="mas" href="sueter-boutique-sahuayo.php">Sueter</a></li>
+                            <li><a id="mas" href="accesorios-boutique-sahuayo.php">Accesorios</a></li>  
+                            <li><a id="mas" href="contacto-boutique-sahuayo.php">Contacto</a></li>              
                             </ul>
                         </li>    
                 </ul>

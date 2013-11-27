@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
 </head>
-
+<title>Blusas Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -17,7 +17,7 @@
             <!--SIDE NAV STARTS-->
             
             <!--SIDE NAV ENDS-->
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>          
+            <?php include("baneer-interno.php") ?>       
                 
                 <!--<ul class="breadcrumb">
                     <li><a href="#">Home</a></li>

@@ -31,15 +31,16 @@
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                    <li> <a class="product_image"><img src="images/anillo-swaroski.JPG"/></a>
+                </div>
+                <div>   
+                    <li> <a class="product_image"><img src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg"/></a>
                         <div class="product_info">
-                            <h3><a href="leisure_detail.html">Anullos</a></h3>
+                            <h3><a href="leisure_detail.html">Anillos</a></h3>
                             <small></small> </div>
                         <div class="price_info"> <a href="#">+ Ver mas Modelos</a>
                         </div>
                     </li>
-                </div>
-                <div>                    
+                                 
                     <li> <a class="product_image"><img src="images/accesorios/miniaturas/COLLARES-SWAROSKI-(7).jpg"/></a>
                         <div class="product_info">
                             <h3><a href="leisure_detail.html">Collares</a></h3>

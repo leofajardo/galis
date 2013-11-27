@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
+<title>Accesorios Diademas Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -14,7 +16,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -64,6 +66,14 @@
                         <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DONA-PARA-CHONGO.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DONA-PARA-CHONGO.jpg" ></a>
                             <div class="product_info">
                                 <h3>Dona para Chongo</h3>
+                            </div>
+                            <div class="price_info"> 
+                                <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
+                            </div>
+                        </li>
+                        <li> <a class="product_image fancybox" rel="diademas" href="images/accesorios/DABALASH.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/DABALASH.jpg" ></a>
+                            <div class="product_info">
+                                <h3>DABALASH</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>

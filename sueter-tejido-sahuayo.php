@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
+<title>Sueter Tejido Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -14,7 +16,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -53,14 +55,14 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-(2).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-(2).jpg" ></a>
+                        <!--<li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-(2).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-(2).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>
                             </div>
                             <div class="price_info"> 
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>
+                        </li>-->
                         <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO-FINO-(4).jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO-FINO-(4).jpg" ></a>
                             <div class="product_info">
                                 <h3>Sueter Tejido Fino</h3>

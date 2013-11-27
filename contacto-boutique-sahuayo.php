@@ -58,7 +58,7 @@
         <input type="submit" class="btn btn-default boton-enviar btn-lg letra-blanca" value="Enviar">
     </form>
             
-            
+            <br/>
         </section>
         <!--Mid Section Ends-->
         <?php include("footer.php") ?>

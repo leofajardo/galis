@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("vestidos")});</script>
 </head>
+<title>Vestidos Sahuayo - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -14,7 +16,7 @@
             <!--SIDE NAV STARTS-->
             <?php include("opciones.php") ?>
             <div id="main_content">
-            <div class="category_banner"> <img src="images/promo_cat_banner.jpg"/> </div>
+            <?php include("baneer-interno.php") ?>
             <!--SIDE NAV ENDS-->
                        
                 
@@ -30,14 +32,14 @@
                 <div class="products_list products_slider">
                     <ul>
                     <div>
-                        <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/PALAZZO.jpg"><img src="images/vestidos/miniaturas/PALAZZO.jpg"/></a>
+                       <!-- <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/PALAZZO.jpg"><img src="images/vestidos/miniaturas/PALAZZO.jpg"/></a>
                             <div class="product_info">
                                 <h3>PALAZZO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>
+                        </li>-->
                         <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/SET-TRIVAL.jpg"><img src="images/vestidos/miniaturas/SET-TRIVAL.jpg"/></a>
                             <div class="product_info">
                                 <h3>SET TRIVAL</h3>
@@ -74,7 +76,7 @@
                         </li>
                         <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-CON-LENTEJUELA-Y-ESTOPEROLES.jpg"><img src="images/vestidos/miniaturas/VESTIDO-CON-LENTEJUELA-Y-ESTOPEROLES.jpg"/></a>
                             <div class="product_info">
-                                <h3>VESTIDO CON LENTEJUELA Y ESTOPEROLES</h3>
+                                <h5>VESTIDO CON LENTEJUELA Y ESTOPEROLES</h5>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
@@ -144,20 +146,20 @@
                         </li>
                        <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DE-NOCHE-CON-ENCAJE.jpg"><img src="images/vestidos/miniaturas/VESTIDO-DE-NOCHE-CON-ENCAJE.jpg"/></a>
                             <div class="product_info">
-                                <h3>VESTIDO DE NOCHE CON ENCAJE</h3>
+                                <h4>VESTIDO DE NOCHE CON ENCAJE</h4>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DE-NOCHE-CORTE-DE-LA-ESPALDA.jpg"><img src="images/vestidos/miniaturas/VESTIDO-DE-NOCHE-CORTE-DE-LA-ESPALDA.jpg"/></a>
+                       <!-- <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DE-NOCHE-CORTE-DE-LA-ESPALDA.jpg"><img src="images/vestidos/miniaturas/VESTIDO-DE-NOCHE-CORTE-DE-LA-ESPALDA.jpg"/></a>
                             <div class="product_info">
                                 <h3>VESTIDO DE NOCHE CORTE DE LA ESPALDA</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>
+                        </li>-->
                     </div>
                     <div>
                         <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DE-NOCHERACADO-CON-DORADO.jpg"><img src="images/vestidos/miniaturas/VESTIDO-DE-NOCHERACADO-CON-DORADO.jpg"/></a>
@@ -168,14 +170,14 @@
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
                         </li>
-                        <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DORADO-(1).jpg"><img src="images/vestidos/miniaturas/VESTIDO-DORADO-(1).jpg"/></a>
+                        <!--<li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DORADO-(1).jpg"><img src="images/vestidos/miniaturas/VESTIDO-DORADO-(1).jpg"/></a>
                             <div class="product_info">
                                 <h3>VESTIDO DORADO</h3>
                             </div>
                             <div class="price_info">
                                 <button class="price_add" title="" type="button"><span class="pr_price">$76.00</span></button>
                             </div>
-                        </li>
+                        </li>-->
                         <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/VESTIDO-DORADO-(2).jpg"><img src="images/vestidos/miniaturas/VESTIDO-DORADO-(2).jpg"/></a>
                             <div class="product_info">
                                 <h3>VESTIDO DORADO</h3>
