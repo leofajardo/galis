@@ -2,7 +2,7 @@
         <!--Navigation Starts-->
         <nav>
             <ul class="primary_nav">
-                <li ><a href="index.php">Incio</a>
+                <li ><a id="inicio" href="index.php">Incio</a>
                     <!--SUbmenu Starts-->
                     
                     <!--SUbmenu Ends-->

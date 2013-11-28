@@ -2,7 +2,9 @@
 <html>
 <head>
     <?php include("headconten.php") ?>
+    <script type="text/javascript">$(document).ready(function(){activarItemMenu("inicio")});</script>
 </head>
+<title>Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>

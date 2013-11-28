@@ -25,7 +25,7 @@
                 </li>
                 <li> 
                     <ul>
-                        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+MICH&amp;aq=0&amp;oq=Constituci%C3%B3n+111+&amp;sll=19.151927,-101.900693&amp;sspn=3.320665,4.938354&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+Michoac%C3%A1n&amp;z=14&amp;ll=20.057336,-102.72066&amp;output=embed"></iframe>
+                        <iframe width="350" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com.mx/maps?f=q&amp;source=s_q&amp;hl=es&amp;geocode=&amp;q=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+MICH&amp;aq=0&amp;oq=Constituci%C3%B3n+111+&amp;sll=19.151927,-101.900693&amp;sspn=3.320665,4.938354&amp;t=m&amp;ie=UTF8&amp;hq=&amp;hnear=Constituci%C3%B3n+111,+Sahuayo+de+Morelos,+Michoac%C3%A1n&amp;z=14&amp;ll=20.057336,-102.72066&amp;output=embed"></iframe>
                     </ul>
                 </li>
             </ul>
