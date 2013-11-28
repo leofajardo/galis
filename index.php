@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("inicio")});</script>
 </head>
-<title>Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
