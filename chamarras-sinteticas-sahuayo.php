@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Chamarras Sintetica</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="chamarras" href="images/chamarras/CHAMARRA-SINTETICA.jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-SINTETICA.jpg" ></a>
                             <div class="product_info">

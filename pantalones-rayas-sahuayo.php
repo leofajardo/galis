@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Pantalones Rayas</h2>
                     <ul>
                        <li> <a class="product_image fancybox" href="images/pantalones/PANTALON-RAYAS.jpg"><img src="images/pantalones/miniaturas/PANTALON-RAYAS.jpg"/></a>
                             <div class="product_info">

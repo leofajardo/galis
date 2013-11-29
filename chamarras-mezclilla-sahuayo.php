@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Chamarras de Mezclilla</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="chamarras" href="images/chamarras/CHAMARRA-DE-MEZCLILLA-DESLAVADA.jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-DE-MEZCLILLA-DESLAVADA.jpg" ></a>
                             <div class="product_info">

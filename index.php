@@ -31,9 +31,9 @@
                     </ul>
                 </div>
                 <div class="promo_banner">
-                    <div class="home_banner"><a href="#"><img src="images/Acerca-de-Galis.jpg"></a></div>
-                    <div class="home_banner"><a href="#"><img src="images/Contacto-v2.jpg"></a></div>
-                    <div class="home_banner"><a href="#"><img src="images/Facebook.jpg"></a></div>
+                    <div class="home_banner"><a href="acerca-de-galis-boutique-sahuayo.php"><img src="images/Acerca-de-Galis.jpg"></a></div>
+                    <div class="home_banner"><a href="contacto-boutique-sahuayo.php"><img src="images/Contacto-v2.jpg"></a></div>
+                    <div class="home_banner"><a href="https://www.facebook.com/galisboutque?ref=hl"><img src="images/Facebook.jpg"></a></div>
                 </div>
             </div>
             <!--Banner Ends-->

@@ -80,7 +80,7 @@ width:310px;
 
 /*General*/
 header{ position:relative;}
-.responsive-nav{ display:block!important; position:absolute; top:108px; width:250px; left:7%;}
+.responsive-nav{ display:block!important; position:absolute; top:93px; width:250px; left:0%;}
 .responsive-nav .selector{ width:232px;}
 .responsive-nav .selector span{ width:239px;}
 .responsive-nav .selector select{ width:246px;}

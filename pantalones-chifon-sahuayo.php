@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Pantalones Chifon</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-CHIFON-ANIMAL-PRINT.jpg"><img src="images/pantalones/miniaturas/PANTALON-CHIFON-ANIMAL-PRINT.jpg"/></a>
                             <div class="product_info">

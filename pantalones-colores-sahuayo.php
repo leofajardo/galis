@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Pantalones Colores</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-COLORES.jpg"><img src="images/pantalones/miniaturas/PANTALON-COLORES.jpg"/></a>
                             <div class="product_info">

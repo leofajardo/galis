@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Blusas Bordados</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-de-cuello-bordado.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-de-cuello-bordado.jpg" ></a>
                             <div class="product_info">

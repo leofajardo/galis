@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Sueter Tejido Fino</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="sueter" href="images/sueter/SUETER-TEJIDO.jpg"><img class="imagen-interna" src="images/sueter/miniaturas/SUETER-TEJIDO.jpg" ></a>
                             <div class="product_info">

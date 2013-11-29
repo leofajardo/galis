@@ -31,6 +31,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Blusas Algodon Cuello Caido</h2>
                     <ul>
 
                         

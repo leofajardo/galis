@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Collares</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/COLLAR.jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/COLLAR.jpg" ></a>
                             <div class="product_info">

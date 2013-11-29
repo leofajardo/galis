@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Blusas de Tirantes</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="ropa" href="images/blusas/Blusa-tirantes-01.jpg"><img class="imagen-interna" src="images/blusas/miniaturas/Blusa-tirantes-01.jpg" ></a>
                             <div class="product_info">

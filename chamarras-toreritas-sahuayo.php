@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Chanarras Torerita</h2>
                     <ul>
                         <li> <a class="product_image fancybox" href="images/chamarras/CHAMARRA-TORERITA.jpg"><img class="imagen-interna" src="images/chamarras/miniaturas/CHAMARRA-TORERITA.jpg" ></a>
                             <div class="product_info">

@@ -3,8 +3,9 @@
 <head>
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("pantalones")});</script>
+
 </head>
-<title>Pantalones Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -13,21 +14,11 @@
     <div class="section_container">
         <!--Mid Section Starts-->
         <section>
-            <!--SIDE NAV STARTS-->
+            
             <?php include("baneer-interno.php") ?>
-            <!--SIDE NAV ENDS-->
-                       
-                
-                <!--<ul class="breadcrumb">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="leisure_listing.html">Women</a></li>
-                    <li class="active"><a href="#">Shirts & Blouses</a></li>
-                </ul>-->
-                
-                
-                <!--Product List Starts-->
+            
             <div class="products_list products_slider">
-                <h2 class="sub_title">Pantalones</h2>
+                <h2 class="sub_title">Pantalones - Galis Boutique</h2>
                 <ul>
                 <div>
                     <li> <a class="product_image"><img src="images/pantalones/miniaturas/PANTALONES-COLOMBIANOS.jpg"/></a>

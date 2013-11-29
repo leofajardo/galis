@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<title>Faldas Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Faldas - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Faldas - Galis Boutique/h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="faldas" href="images/faldas/FALDA-DE-ALGODON-CON-LICRA.jpg"><img class="imagen-interna" src="images/faldas/miniaturas/FALDA-DE-ALGODON-CON-LICRA.jpg" ></a>
                             <div class="product_info">

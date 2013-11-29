@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("blusas")});</script>
 </head>
-<title>Blusas Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Blusas - Pantalones - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -29,7 +29,7 @@
                 <!--Product List Starts-->
             <!--<div id="main_content">-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Blusas</h2>
+                <h2 class="sub_title">Blusas - Galis Boutique</h2>
                 <ul>
                 <div>
                     <li> <a class="product_image"><img src="images/blusas/miniaturas/Blusa-algodon-cuello-caido-01.jpg"/></a>

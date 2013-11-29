@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<title>Accesorios Sahuayo - Galis Boutique</title>
+<title>Accesorios para dama Sahuayo - Colares - Anillos - Aretes - Cintos - Medias - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,7 +27,7 @@
                 
             <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Accedorios</h2>
+                <h2 class="sub_title">Accedorios - Galis Bourtique</h2>
                 <ul>
                 <div>                    
                     <li> <a class="product_image"><img src="images/accesorios/miniaturas/COLLAR.jpg" /></a>

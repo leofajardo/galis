@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<title>Leggins o Mayas Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Leggins o Mayas - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -17,19 +17,9 @@
             <?php include("opciones.php") ?>
             <div id="main_content">
             <?php include("baneer-interno.php") ?>
-            <!--SIDE NAV ENDS-->
-                       
-                
-                <!--<ul class="breadcrumb">
-                    <li><a href="#">Home</a></li>
-                    <li><a href="leisure_listing.html">Women</a></li>
-                    <li class="active"><a href="#">Shirts & Blouses</a></li>
-                </ul>-->
-                
-                
-                <!--Product List Starts-->
-                
+            
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Leggins o Mayas - Galis Boutique</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="leggins" href="images/leggins/MALLA-TRIVAL.jpg"><img class="imagen-interna" src="images/leggins/miniaturas/MALLA-TRIVAL.jpg" ></a>
                             <div class="product_info">

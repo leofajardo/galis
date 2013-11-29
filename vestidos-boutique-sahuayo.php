@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("vestidos")});</script>
 </head>
-<title>Vestidos Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Vestidos = Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Vestidos - Galis Boutique</h2>
                     <ul>
                     <div>
                        <!-- <li> <a class="product_image fancybox" rel="vestidos" href="images/vestidos/PALAZZO.jpg"><img src="images/vestidos/miniaturas/PALAZZO.jpg"/></a>

@@ -29,6 +29,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Anillos</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="ropa" href="images/accesorios/ANILLO-SWAROSKI-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/ANILLO-SWAROSKI-(1).jpg" ></a>
                             <div class="product_info">

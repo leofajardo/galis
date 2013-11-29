@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Pantalones Floreados</h2>
                     <ul>
                        <li> <a class="product_image fancybox" href="images/pantalones/PANTALON-FLOREADO.jpg"><img src="images/pantalones/miniaturas/PANTALON-FLOREADO.jpg"/></a>
                             <div class="product_info">

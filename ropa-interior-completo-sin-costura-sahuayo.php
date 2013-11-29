@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Ropa Interior - Completo sin Costura </h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/CALZON-SIN-COSTURA.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg" ></a>
                             <div class="product_info">

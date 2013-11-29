@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Pantalones Cinto</h2>
                     <ul>
                        <li> <a class="product_image fancybox" rel="pantalones" href="images/pantalones/PANTALON-CINTO-(1).jpg"><img src="images/pantalones/miniaturas/PANTALON-CINTO-(1).jpg"/></a>
                             <div class="product_info">

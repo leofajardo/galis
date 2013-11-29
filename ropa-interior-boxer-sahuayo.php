@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Ropa Interior Boxer </h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="ropa" href="images/ropa-interior/BOXER.jpg"><img class="imagen-interna" src="images/ropa-interior/miniaturas/BOXER.jpg" ></a>
                             <div class="product_info">

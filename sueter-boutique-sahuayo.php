@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<title>Sueter Sahuayo - Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Sueter - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,7 +27,7 @@
                 
                 <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Suetres</h2>
+                <h2 class="sub_title">Sueter - Galis Boutique/h2>
                 <ul>
                 <div>
                     <li> <a class="product_image"><img src="images/sueter/miniaturas/SUETER-ESTAMPADO.jpg"/></a>

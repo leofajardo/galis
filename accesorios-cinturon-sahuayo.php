@@ -30,6 +30,7 @@
                 <!--Product List Starts-->
                 
                 <div class="products_list products_slider">
+                    <h2 class="sub_title">Cinturones</h2>
                     <ul>
                         <li> <a class="product_image fancybox" rel="accesorios" href="images/accesorios/CINTURON-DELGADO-RESORTE-(1).jpg"><img class="imagen-interna" src="images/accesorios/miniaturas/CINTURON-DELGADO-RESORTE-(1).jpg" ></a>
                             <div class="product_info">

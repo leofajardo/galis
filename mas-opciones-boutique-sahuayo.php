@@ -4,7 +4,7 @@
     <?php include("headconten.php") ?>
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("mas")});</script>
 </head>
-<title>Galis Boutique</title>
+<title>Ropa para dama Sahuayo - Pantalones - Blusas - Chamarras - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
@@ -27,7 +27,7 @@
                 
                 <!--Product List Starts-->
             <div class="products_list products_slider">
-                <h2 class="sub_title">Mas Opciones</h2>
+                <h2 class="sub_title">Mas Opciones - Galis Boutique</h2>
                 <ul>
                 <div>
                     <li> <a class="product_image"><img src="images/ropa-interior/miniaturas/CALZON-SIN-COSTURA.jpg"/></a>

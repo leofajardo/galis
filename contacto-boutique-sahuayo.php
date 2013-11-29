@@ -5,22 +5,20 @@
     <link rel="stylesheet" type="text/css" href="css/bootstrap.css" media="all">
     <script src="js/bootstrap.js" type="text/javascript"></script>
     <script src="js/parsley.js" type="text/javascript"></script>
-
     <script type="text/javascript">$(document).ready(function(){activarItemMenu("contacto")});</script>
 
 </head>
-
+<title>Ropa para dama Sahuayo - Contacto - Galis Boutique</title>
 <body>
 <div class="wrapper">
     <?php include("header.php") ?>
     <?php include("navbar.php") ?>
-
     
     <div class="section_container">
         <!--Mid Section Starts-->
-        <section>
+    <section>
             
-            <div class="row"><!-- inicio de row-->
+    <div class="row"><!-- inicio de row-->
     <h3 class="letra-titulo">Envíanos un mensaje</h3>
     <hr>
     </div><!-- fin del row-->
@@ -63,7 +61,6 @@
         <!--Mid Section Ends-->
         <?php include("footer.php") ?>
     </div>
-    
 </div>
 </body>
 </html>
